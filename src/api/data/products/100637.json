@@ -1,0 +1,120 @@
+{
+  "uid": 100637,
+  "name": "Philips InstantFit LED Linear Light Bulb",
+  "description": "Experience hassle-free energy savings simply by replacing your currently liner fluorescent tube with the Philips InstantFit 17-Watt 4 ft. T8 linear LED light bulb. It is the easiest way to replace a linear fluorescent light bulb with an LED solution. Philips InstantFit is a true plug n play solution that allows you to leave your existing ballast in your system, while upgrading to the energy savings of LED technology. This product is compatible with most instant start ballasts and requires no modifications to your existing fixture, which means no rewiring is necessary with this InstantFit design. They are ideal for use in general lighting applications where fluorescent lighting is used, and are perfect for applications with frequent on/off switching cycles. In residential settings, this light bulb is perfect for laundry rooms, kitchens, garages and basements and in commercial settings in retail offices, parking garages or industrial spaces. Unlike fluorescent bulbs, Philips InstantFit linear T8 LED light bulbs contain no mercury, offering a safe and sustainable, solution, while operating well in cold temperatures.Brightness: 2100 lumensEstimated yearly energy cost: $2.05 (based on 3 hours/day, 11 cents/kWh. costs depend on rates and use)Life: 32.9 years (based on 3 hours/day)Light appearance: 5000K (daylight)Energy used: 17-Watt (equivalent to a 32-Watt linear fluorescent light bulb)Lumens per watt: 123.52 lumensUses 55% less energy compared to a linear fluorescent light bulbIdeal for use in general lighting applications where fluorescent lighting is used like laundry rooms, kitchens, garages as well as commercial use in offices and hospitalsInstant fit design means that no modifications are needed to the current fixture housing instant start ballast, nor rewiring, simply plug it in and use",
+  "attributes": [
+    {
+      "key": "Actual Color Temperature (K)",
+      "value": "5000"
+    },
+    {
+      "key": "Average Life (hours)",
+      "value": "36000"
+    },
+    {
+      "key": "Bulb Diameter (In.)",
+      "value": "1"
+    },
+    {
+      "key": "Bulb Shape",
+      "value": "Linear"
+    },
+    {
+      "key": "Bulb Type",
+      "value": "Linear Fluorescent"
+    },
+    {
+      "key": "- Brightness",
+      "value": "2100 lumens"
+    },
+    {
+      "key": "- Estimated yearly energy cost",
+      "value": "$2.05 (based on 3 hours/day, 11 cents/kWh. costs depend on rates and use)"
+    },
+    {
+      "key": "- Life",
+      "value": "32.9 years (based on 3 hours/day)"
+    },
+    {
+      "key": "- Light appearance",
+      "value": "5000K (daylight)"
+    },
+    {
+      "key": "- Energy used",
+      "value": "17-Watt (equivalent to a 32-Watt linear fluorescent light bulb)"
+    },
+    {
+      "key": "- Lumens per watt",
+      "value": "123.52 lumens"
+    },
+    {
+      "key": "Color Rendering Index",
+      "value": "80"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Light Bulb Base Code",
+      "value": "Bi-Pin"
+    },
+    {
+      "key": "Light Bulb Base Type",
+      "value": "Bi-Pin"
+    },
+    {
+      "key": "Light Bulb Features",
+      "value": "Energy Saving"
+    },
+    {
+      "key": "Light Bulb Shape Code",
+      "value": "T8"
+    },
+    {
+      "key": "Light Color",
+      "value": "Daylight"
+    },
+    {
+      "key": "Light Output (lumens)",
+      "value": "2100"
+    },
+    {
+      "key": "Lighting Technology",
+      "value": "LED"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Philips"
+    },
+    {
+      "key": "Number in Package",
+      "value": "1"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "48.03"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1.46"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1.46"
+    },
+    {
+      "key": "Watt Equivalence",
+      "value": "32"
+    },
+    {
+      "key": "Wattage (watts)",
+      "value": "17"
+    }
+  ],
+  "isDeleted": false
+}

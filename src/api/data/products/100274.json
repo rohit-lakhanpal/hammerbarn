@@ -1,0 +1,60 @@
+{
+  "uid": 100274,
+  "name": "Milwaukee REDLITHIUM Compact Battery Pack",
+  "description": "Milwaukee REDLITHIUM batteries are the next generation in Lithium-Ion technology. Compatible with all products in the M12 Cordless tool system, REDLITHIUM battery packs will provide unmatched runtime, performance and durability for the professional tradesman.1.5-amp hour 16-watt hour\u0027s batteryLightweight over 65% lighter vs. compact NiCd batteriesCompact over 50% smaller vs. compact NiCd batteriesRed lithium also provides up to 50% more rechargesBattery fuel gauge displays charge status on toolLithium-ion battery delivers long life and run time with fade-free powerFor use with Milwaukee M12 cordless toolsCompatible chargers: M12/M18 multi-voltage (48-59-1812), M12 AC/DC (2510-20), M12 30 minute (48-59-2401)Includes: (2) 48-11-2401 M12 red lithium-ion compact battery",
+  "attributes": [
+    {
+      "key": "Battery Power Type",
+      "value": "Lithium Ion"
+    },
+    {
+      "key": "- Compatible chargers",
+      "value": "M12/M18 multi-voltage (48-59-1812), M12 AC/DC (2510-20), M12 30 minute (48-59-2401)"
+    },
+    {
+      "key": "- Includes",
+      "value": "(2) 48-11-2401 M12 red lithium-ion compact battery"
+    },
+    {
+      "key": "Color Family",
+      "value": "Red"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Milwaukee"
+    },
+    {
+      "key": "Power Tool Accessory Type",
+      "value": "Battery"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Power Tool Accessory"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.05"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "6.02"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5.7"
+    },
+    {
+      "key": "Rechargeable",
+      "value": "Yes"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "12"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,80 @@
+{
+  "uid": 100208,
+  "name": "HOME-FLEX Brass Transition Flange",
+  "description": "The HOME-FLEX Termination Flange provides a smooth transition between CSST and standard pipe. Tool-less flare design; no special tools are required. Metal-to-metal seal, with no split rings, o-rings or gaskets. Self-guiding assembly to ensure a perfectly even flare.Provides a smooth transition between CSST and standard pipeVery high quality brass construction1/2 in. DiaFor use with HOME-FLEX CSST systemsFor use with natural gas or liquid propaneCSA and IAPMO certifiedInstallers should be certified to install HOME-FLEX CSST, to become certified visit homeflex.com",
+  "attributes": [
+    {
+      "key": "Compatible Pipe Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Connection 1",
+      "value": "FIP"
+    },
+    {
+      "key": "Connection 2",
+      "value": "Socket"
+    },
+    {
+      "key": "Fitting 1 size",
+      "value": "1/2\u0022"
+    },
+    {
+      "key": "Fitting 2 size",
+      "value": "1/2\u0022"
+    },
+    {
+      "key": "Fitting or Connector Type",
+      "value": "Flange"
+    },
+    {
+      "key": "Material",
+      "value": "Brass"
+    },
+    {
+      "key": "Maximum working pressure (psi)",
+      "value": "5"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Unbranded"
+    },
+    {
+      "key": "Pipe or Fitting Product Type",
+      "value": "Fittings \u0026 Connectors"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".36"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Push to connect",
+      "value": "No"
+    },
+    {
+      "key": "Type",
+      "value": "Fitting"
+    },
+    {
+      "key": "Underground rated",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

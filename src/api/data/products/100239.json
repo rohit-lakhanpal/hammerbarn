@@ -1,0 +1,56 @@
+{
+  "uid": 100239,
+  "name": "Rust-Oleum Biscuit Tub and Tile Refinishing Kit",
+  "description": "Rust-Oleum 1-qt. Biscuit Tub and Tile Refinishing Kit is a two-part epoxy acrylic designed to rejuvenate ceramic and porcelain surfaces like tubs, sinks and showers in just minutes. Specially formulated to provide excellent adhesion, durability and color retention in high moisture areas. It applies a smooth, porcelain-like finish that resists mildew growth for long-lasting protection and beauty.California residents: see\u0026nbsp;Proposition 65 informationApply to ceramic, porcelain or  fiberglass tubs, sinks and tilesDurable and corrosion-resistant finishCovers up to 110 sq ft or 2 coats on a standard bathtubGlossy, porcelain-like, waterproof finishTough, hard protective coating acts like porcelain and ceramicDries to the touch in 1 hour, allow surface to fully dry for 3 days prior to water exposureTwo-part epoxy acrylic formula withstands moisture and extreme hot temperaturesCleans up easily with mineral spirits",
+  "attributes": [
+    {
+      "key": "Color",
+      "value": "Biscuit"
+    },
+    {
+      "key": "Color/Finish",
+      "value": "Gloss Biscuit"
+    },
+    {
+      "key": "Dry to touch (min.)",
+      "value": "60"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Rust-Oleum Specialty"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Tub and Tile Paint"
+    },
+    {
+      "key": "Patching \u0026 Repair Product Type",
+      "value": "Porcelain Repair"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "4.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "7.75"
+    },
+    {
+      "key": "Product Size (oz.)",
+      "value": "32"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "3.4"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4.5"
+    },
+    {
+      "key": "Sheen",
+      "value": "Gloss"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,80 @@
+{
+  "uid": 100101,
+  "name": "Intertape Polymer Group Lacquer-Resistant Masking Tape - High Temp Painters Tape",
+  "description": "PG-21 Lacquer-Resistant Performance Grade Masking Tape is a performance grade painter\u0027s masking tape with lacquer resistance. Recommended for high temperature applications. Clean removal from a variety of surfaces. It has a smooth texture, tear-resistant backing for long paint lines and 1-piece removal. Not recommended for outdoor useRecomended for high temperature applicationsSmooth texture, tear-resistent backingClean removal from a variety of surfacesLacquer resistanceNot recommended for outdoor use",
+  "attributes": [
+    {
+      "key": "Adhesion level",
+      "value": "Medium to high"
+    },
+    {
+      "key": "Adhesive Product Type",
+      "value": "Taping Accessory"
+    },
+    {
+      "key": "Color",
+      "value": "Beige/Tan"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Maximum application temperature (F)",
+      "value": "325"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Intertape Polymer Group"
+    },
+    {
+      "key": "Minimum application temperature (F)",
+      "value": "45"
+    },
+    {
+      "key": "Moisture Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Number of rolls included",
+      "value": "6"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Masking Tape"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "5.46"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": "4.98 oz"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "24 in"
+    },
+    {
+      "key": "Recommended surfaces",
+      "value": "Hardwood floors,Multi-Surface,Woodwork"
+    },
+    {
+      "key": "Removal time (days)",
+      "value": "3"
+    },
+    {
+      "key": "Roll length (ft.)",
+      "value": "5"
+    },
+    {
+      "key": "UV/sunlight resistant",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

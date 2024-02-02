@@ -1,0 +1,40 @@
+{
+  "uid": 100279,
+  "name": "Werner ToolLasso Project Tray",
+  "description": "The Werner Multipurpose Project Tray conveniently holds tools, paint and supplies. Made for use with Werner multiladders and step ladders, it attaches easily and works at multiple heights. The tray conveniently includes sockets for the included ToolLasso and other accessories.Conveniently holds tools, paint and suppliesMade for Werner multi ladders and step laddersAttaches easily to ladderIncludes one ToolLasso to help keep your tools secure and handy",
+  "attributes": [
+    {
+      "key": "Accessory Type",
+      "value": "Project Tray"
+    },
+    {
+      "key": "Finish Type",
+      "value": "Finished"
+    },
+    {
+      "key": "Ladder Type",
+      "value": "Ladder Accessory"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Werner"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "2.8"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "12"
+    }
+  ],
+  "isDeleted": false
+}

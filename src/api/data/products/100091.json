@@ -1,0 +1,136 @@
+{
+  "uid": 100091,
+  "name": "Wayne Submersible Utility Pump",
+  "description": "The WAYNE1/6 HP Submersible Utility Pump is ideal for draining flooded basements, emptying water-filled boats and removing water from sinks, tubs and flat roofs. Its oil-filled, thermally protected motor helps prevent overheating and can pump up to 950 GPH at 0 ft. of lift. The 3/4 in. discharge adapter connects to standard garden hose and its bottom-suction design removes water down to within 1/8 in. of the surface.Pumps up to 950 GPH at 0 ft. of liftOil-filled, thermally protected motor helps prevents overheatingIdeal for draining flooded basements, emptying water-filled boats and removing water from sinks, tubs and flat roofsTop center 3/4 in. discharge provides balanced installation3/4 in. discharge adapter connects to standard garden hoseBottom suction design removes water down to within 1/8 in. of surfaceEasy-access handle for portabilityUL listedHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Adjustable Speed",
+      "value": "No"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "4.8"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,SSPMA Certified"
+    },
+    {
+      "key": "Cord Length (ft.)",
+      "value": "8"
+    },
+    {
+      "key": "Corrosion Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Discharge Flow @ 0 ft. (gallons/hour)",
+      "value": "950"
+    },
+    {
+      "key": "Discharge Flow @ 10 ft. (gallons/hour)",
+      "value": "790"
+    },
+    {
+      "key": "Float Switch",
+      "value": "No"
+    },
+    {
+      "key": "Hardware Included",
+      "value": "No"
+    },
+    {
+      "key": "Head Pressure (ft.)",
+      "value": "25"
+    },
+    {
+      "key": "Horsepower (hp)",
+      "value": "1/6 hp"
+    },
+    {
+      "key": "Housing Material",
+      "value": "Thermoplastic"
+    },
+    {
+      "key": "Inlet Connection",
+      "value": "Plain end"
+    },
+    {
+      "key": "Maximum Discharge Flow (gallons/hour)",
+      "value": "950"
+    },
+    {
+      "key": "Maximum Pumping Height (ft.)",
+      "value": "25"
+    },
+    {
+      "key": "Maximum Working Temperature (F)",
+      "value": "120"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Wayne"
+    },
+    {
+      "key": "Minimum working temperature (F)",
+      "value": "40"
+    },
+    {
+      "key": "Outlet Connection",
+      "value": "Threaded male"
+    },
+    {
+      "key": "Pool Cover Pump",
+      "value": "No"
+    },
+    {
+      "key": "Power Type",
+      "value": "Electric"
+    },
+    {
+      "key": "Power Type Required",
+      "value": "AC"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "7"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "9"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "8"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "7 in"
+    },
+    {
+      "key": "Pump Switch Type",
+      "value": "Switchless"
+    },
+    {
+      "key": "Run-Dry Capable",
+      "value": "No"
+    },
+    {
+      "key": "Self-Priming",
+      "value": "Yes"
+    },
+    {
+      "key": "Submersible",
+      "value": "Yes"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "115"
+    },
+    {
+      "key": "Waterfall Pump",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

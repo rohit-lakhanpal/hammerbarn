@@ -1,0 +1,88 @@
+{
+  "uid": 100788,
+  "name": "Waterboss SafeFlow 36,400 Water Softener with Sediment Filter",
+  "description": "The Waterboss 36,400-Grain Water Softener features a built-in sediment filter for clean operation and a safety shut-off system for safe water softener use. The water flow rate helps provide minimal pressure drop to your shower and appliances, and the 36,400-grain capacity makes the softener ideal for large families. The high-efficiency tank design helps conserve water and salt and also saves space so you can easily find a place for it in your home.10 GPM water flow rate at 15 psi drop helps provide minimal pressure drop to your shower and appliancesBuilt-in sediment filter for clean operationSafety shut-off system for safe operationFactory-installed bypass helps extend filter longevityRegeneration uses 14 Gal. in 20 minutes to help save water and timeSpace-saving tank is designed for convenienceDo-it-yourself installation DVD included to help make installation easy",
+  "attributes": [
+    {
+      "key": "Alarm",
+      "value": "No"
+    },
+    {
+      "key": "Color Family",
+      "value": "Beige / Cream"
+    },
+    {
+      "key": "Indicator light(s)",
+      "value": "Yes"
+    },
+    {
+      "key": "Installation kit included",
+      "value": "No"
+    },
+    {
+      "key": "Iron reduction (ppm)",
+      "value": "10"
+    },
+    {
+      "key": "Maximum hardness removal (grains per gallon)",
+      "value": "90"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Waterboss"
+    },
+    {
+      "key": "Output betweeen refills (gallons)",
+      "value": "2400"
+    },
+    {
+      "key": "Permanent settings memory",
+      "value": "No"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "18.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "30.75"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "105"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "14.75 in"
+    },
+    {
+      "key": "Programmable",
+      "value": "Yes"
+    },
+    {
+      "key": "Quantity (cu. ft.)",
+      "value": "1"
+    },
+    {
+      "key": "Regeneration time (min.)",
+      "value": "20"
+    },
+    {
+      "key": "Tank Length (in.)",
+      "value": "29"
+    },
+    {
+      "key": "Tank Width (in.)",
+      "value": "10"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "12"
+    },
+    {
+      "key": "Water required for regeneration (gallons)",
+      "value": "14"
+    }
+  ],
+  "isDeleted": false
+}

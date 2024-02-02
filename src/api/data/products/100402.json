@@ -1,0 +1,60 @@
+{
+  "uid": 100402,
+  "name": "Orbit Brass Spike Sprinkler",
+  "description": "One of the most durable sprinklers on the market. It has a brass head and zinc spike for years of dependable service. The step allows you to firmly plant the sprinkler in the most unforgiving lawns.Coverage up to 7,800 sq. ft.Adjustable 0 to 360 patternSturdy step spikeConnect multiple sprinklersBrass head provides years of dependable water coverageFor outdoor use and cold water onlyFor outdoor applications only",
+  "attributes": [
+    {
+      "key": "Base Material",
+      "value": "Die-Cast"
+    },
+    {
+      "key": "Commercial / Residential",
+      "value": "Residential"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "7800"
+    },
+    {
+      "key": "Decorative",
+      "value": "No"
+    },
+    {
+      "key": "Fitting Size",
+      "value": "3/4\u0022"
+    },
+    {
+      "key": "Maximum Pressure (PSI)",
+      "value": "80"
+    },
+    {
+      "key": "Maximum Spray Distance (ft.)",
+      "value": "50"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Orbit"
+    },
+    {
+      "key": "Motion Sensor",
+      "value": "No"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "11"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5.25"
+    },
+    {
+      "key": "Sprinkler Base Type",
+      "value": "Spike"
+    }
+  ],
+  "isDeleted": false
+}

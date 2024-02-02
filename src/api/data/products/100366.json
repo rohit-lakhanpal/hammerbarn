@@ -1,0 +1,48 @@
+{
+  "uid": 100366,
+  "name": "Channel Master Outdoor Matching Transformer Balun for 300 Ohm Antennas",
+  "description": "The Channel Master CM 94444 outdoor matching transformer Balun is used to connect your 75 ohm coaxial cable to the common 300 twin lead style connection on many outdoor antennas. The CM 94444 is an industry standard balun. It offers excellent matching and lowest through loss.Connects 300 ohm antennas to 75 ohm downloadsHD/UHF/VHF/FMExcellent matching, low through lossQuality construction",
+  "attributes": [
+    {
+      "key": "Antenna Gain (dB)",
+      "value": "0"
+    },
+    {
+      "key": "Electronics Features",
+      "value": "High definition compatible"
+    },
+    {
+      "key": "Electronics Included Components",
+      "value": "No additional items included"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Channel Master"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "7"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1"
+    },
+    {
+      "key": "Range (miles)",
+      "value": "0"
+    },
+    {
+      "key": "Signal Type",
+      "value": "AM,FM,UHF,VHF"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 100824,
+  "name": "Scotts EdgeGuard Mini Spreader - 5000 sq ft Capacity",
+  "description": "The Turf Builder EdgeGuard Mini Boradcast Spreader has Scotts Exclusive EdgeGuard Technology. The EdgeGuard feature allows you to easily keep fertilizer off landscaping, driveways, sidewalks, and out of waterways. Less waste, less clean up, and better for the environment.Designed to ensure superior results when used with Scotts fertilizerHolds up to 5,000 square feet of Scotts lawns productsRustproof hopperRustproof agitator",
+  "attributes": [
+    {
+      "key": "Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Scotts"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "16"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "45.25"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "16 in"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "10.67"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "20"
+    },
+    {
+      "key": "Spread width (in.)",
+      "value": "60"
+    },
+    {
+      "key": "Spreader type",
+      "value": "Broadcast"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "uid": 100493,
+  "name": "Cooper Bussmann 15A Microwave-Oven Fuses, Ceramic Tube (2-Pack)",
+  "description": "The Cooper Bussmann ABC Series 15 Amp Microwave-Oven Fuses (2-Pack) are fast-acting fuses that feature a ceramic tube to offer a higher Amp/Volt rating combination. These fuses are ideal for use in electronic-circuit applications and are CSA- and UL listed with a rating of up to 250 Volts.For use in electronic circuitsNickel-plated-brass end capsCeramic tube offers higher Amp /volt rating combinations250 VoltsCSA- and UL listedIncludes 2 fuses",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Fuse"
+    },
+    {
+      "key": "Fuse Type",
+      "value": "Electronics"
+    },
+    {
+      "key": "Maximum Amperage (amps)",
+      "value": "15"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cooper Bussmann"
+    },
+    {
+      "key": "Number in Package",
+      "value": "2"
+    },
+    {
+      "key": "Power Distribution Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "250"
+    }
+  ],
+  "isDeleted": false
+}

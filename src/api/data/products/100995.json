@@ -1,0 +1,44 @@
+{
+  "uid": 100995,
+  "name": "Simpson Strong-Tie Fence Post Anchor - 4x4 Wood Post",
+  "description": "Replacing an entire fence can be an expensive and difficult task. Now it\u0027s easy for you to get your fence back in shape and your home back to looking its best. Simpson Strong-Tie offers a line of products designed specifically to help you make some of the most common fence repairs, easily and economically.Allows easy installation of 4 in. x 4 in. wood posts on existing concreteEasy to install in concrete with 1/2 in. Dia. anchorsMade from 12-Gauge steelBlack powder-coatInstall with 1/4 in. SDS screws or 1/4 in. HDG lag screws",
+  "attributes": [
+    {
+      "key": "Base Type",
+      "value": "Regular Base"
+    },
+    {
+      "key": "Gauge",
+      "value": "12"
+    },
+    {
+      "key": "Material",
+      "value": "Metal"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Simpson Strong-Tie"
+    },
+    {
+      "key": "Number of Pieces",
+      "value": "1"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "6.825"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5.6"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3.825"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "uid": 100256,
+  "name": "GAF Tri-Ply#75 Base Sheet - Flame Retardant Roofing Material",
+  "description": "Tri-Ply#75Base Sheet is a premium roofing base sheet constructed with a fiberglass mat reinforcing that is coated on both sides to ensure a closed-sheet design to prevent asphalt bleed-through. The sealed sheet also serves as an effective flame retarder for the application of torch-applied modified bitumen membranes. Tri-Ply#75base sheet is engineered for use in the construction of Tri-Ply built-up and modified bitumen roofs.California residents: see\u0026nbsp;Proposition 65 informationOptimum porosity provides ready escape of air while applying hot asphaltNailable and rolls out flat for easy installationMeets ASTM D4601, type IIFM approvedUL classifiedMiami-Dade county product control approved",
+  "attributes": [
+    {
+      "key": "Application",
+      "value": "Mop"
+    },
+    {
+      "key": "Color Family",
+      "value": "Black"
+    },
+    {
+      "key": "Commercial / Residential",
+      "value": "Commercial"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "300"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "GAF"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "9"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1169"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "39.4"
+    },
+    {
+      "key": "Roofing Product Type",
+      "value": "Modified Low Slope Roofing"
+    },
+    {
+      "key": "Type",
+      "value": "Base sheet"
+    }
+  ],
+  "isDeleted": false
+}

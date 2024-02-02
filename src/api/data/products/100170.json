@@ -1,0 +1,92 @@
+{
+  "uid": 100170,
+  "name": "Dyna-Glo Pro Portable Gas Heater - 125,000 BTU",
+  "description": "Dyna-Glo Pro portable gas forced air heaters offer a quick fire continuous spark ignition systems, coupled with adjustable height controls to insure you get the heat you need, when you need it, and where you want it. Fueled by liquid propane, this unit heats up to 3,100 sq. ft. 10 ft. Hose and regulator assembly are included (LP tank sold separately).70,000 - 125,000 BTUsHeats up to 3,100 sq. ft.Continuously variable BTUsContinuos electronic ignition - prevents dangerous delayed ignitionHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Area Heated (Sq. Ft.)",
+      "value": "3100"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "CSA Listed"
+    },
+    {
+      "key": "Color",
+      "value": "Orange"
+    },
+    {
+      "key": "Color Family",
+      "value": "Oranges / Peaches"
+    },
+    {
+      "key": "Fuel rate (gallons/hour)",
+      "value": "0"
+    },
+    {
+      "key": "Fuel tank capacity (gallons)",
+      "value": "0"
+    },
+    {
+      "key": "Heat rating (BTU/hour)",
+      "value": "125000"
+    },
+    {
+      "key": "Heater Type",
+      "value": "Vented"
+    },
+    {
+      "key": "Heating Product Type",
+      "value": "Gas Portable Heater"
+    },
+    {
+      "key": "Heating Technology Type",
+      "value": "Convection"
+    },
+    {
+      "key": "Ignition Type",
+      "value": "Continuous Spark"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "Material",
+      "value": "Steel"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Dyna-Glo Pro"
+    },
+    {
+      "key": "Portable Heater Features",
+      "value": "Automatic Shutoff,Tip-Over Safety Switch,Wheels"
+    },
+    {
+      "key": "Power/Fuel Type",
+      "value": "Propane"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "11.81"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "16.14"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "20.72"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "25.59"
+    },
+    {
+      "key": "Run time (hours)",
+      "value": "12"
+    }
+  ],
+  "isDeleted": false
+}

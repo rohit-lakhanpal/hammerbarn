@@ -1,0 +1,88 @@
+{
+  "uid": 100159,
+  "name": "PC-Clear 1-Hour Epoxy Glue - Waterproof, 2450 psi Strength",
+  "description": "PC-Clear Liquid Epoxy cures clear in 1 hour making it perfect when you need to disguise a repair. 2 part epoxy requires mixing. This product demonstrates excellent chemical resistance to mild acids, caustics, detergents, gasoline, fuel oil, salt, and fresh water. PC-Clear is very durable and flexible, setting it apart from other liquid epoxies.Allows a 4 minute working time with cure time of 1 hourBonds to most surfacesWaterproof after cured2450 psi tensile strength ratingNot designed to bond to wax paper, Teflon, or polyethylene - test a small area when in doubt",
+  "attributes": [
+    {
+      "key": "Adhesion level",
+      "value": "High"
+    },
+    {
+      "key": "Adhesive Product Type",
+      "value": "Glue/Epoxy"
+    },
+    {
+      "key": "Curing time (hours)",
+      "value": "1"
+    },
+    {
+      "key": "Dries clear",
+      "value": "Yes"
+    },
+    {
+      "key": "Drillable",
+      "value": "Yes"
+    },
+    {
+      "key": "Flammable",
+      "value": "No"
+    },
+    {
+      "key": "Glue/epoxy type",
+      "value": "Epoxy/super glue"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "PC Products"
+    },
+    {
+      "key": "Moisture Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "8"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": "16 oz"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4.5"
+    },
+    {
+      "key": "Recommended surfaces",
+      "value": "Multi-Surface"
+    },
+    {
+      "key": "Sandable",
+      "value": "Yes"
+    },
+    {
+      "key": "Set Time (Min.)",
+      "value": "4"
+    },
+    {
+      "key": "Solvent resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Stainable/Paintable",
+      "value": "Paintable"
+    },
+    {
+      "key": "UV/sunlight resistant",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

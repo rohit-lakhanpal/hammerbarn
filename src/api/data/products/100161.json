@@ -1,0 +1,100 @@
+{
+  "uid": 100161,
+  "name": "Aquasana RT-200 Whole House Water Filtration System",
+  "description": "Get long-lasting, high performance water filtration for great-tasting, healthy water throughout your entire home. The RT-200 Whole House Water Filtration System is NSF Certified to remove over 97% of chlorine present in tap water in addition to reducing other harmful contaminants such as pesticides, herbicides, rust, sediment, water soluble metals and industrial solvents.Easy installation and replacement of tanks, lasting 3 years or 300,000 gal.Does not require electricity, drainage, or back-flushing and does not create waste-waterReduces harmful impacts of contaminated tap water on appliances and plumbingImproves air quality within your home by reducing harmful volatile organic chemicalsEnjoy a clean, chemical-free shower experience for softer hair and skinStage 1 - 10 in. sediment pre-filter reduces rust, sediment and siltStage 2 - A blend of patented copper-zinc media reduces chlorine and water soluble heavy metals and also inhibits the growth of bacteria and algaeStage 3 - activated carbon reduces herbicides, pesticides and other chemicals compoundsAll Aquasana products offer a 90-day 100% money-back guarantee (a three-year warranty is included, which covers defects in materials and workmanship)Optional UV well kit (model # RT-WELL) attachment offers whole house protection from harmful well water contaminants, scale buildup, bacteria and viruses common in well water",
+  "attributes": [
+    {
+      "key": "Bypass valve",
+      "value": "No"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "NSF Listed"
+    },
+    {
+      "key": "Color/Finish",
+      "value": "Blue"
+    },
+    {
+      "key": "Filter change indicator",
+      "value": "No"
+    },
+    {
+      "key": "Filtration method",
+      "value": "KDF \u0026 Carbon"
+    },
+    {
+      "key": "Fitting size (in.)",
+      "value": "0.75"
+    },
+    {
+      "key": "Fitting style",
+      "value": "Threaded"
+    },
+    {
+      "key": "Hardware Included",
+      "value": "Yes"
+    },
+    {
+      "key": "Installation kit included",
+      "value": "Yes"
+    },
+    {
+      "key": "Maximum feed water pressure (psi)",
+      "value": "100"
+    },
+    {
+      "key": "Maximum feed water temperature (F)",
+      "value": "90"
+    },
+    {
+      "key": "Maximum filtered water flow (gallons per min.)",
+      "value": "7"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Aquasana"
+    },
+    {
+      "key": "Minimum feed water pressure (psi)",
+      "value": "40"
+    },
+    {
+      "key": "Minimum feed water temperature (F)",
+      "value": "38"
+    },
+    {
+      "key": "Number of stages",
+      "value": "3"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "27"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "40.5"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "28"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8.25"
+    },
+    {
+      "key": "UV lamp",
+      "value": "No"
+    },
+    {
+      "key": "Water Filtration System Type",
+      "value": "Whole House"
+    },
+    {
+      "key": "Water Filtration Technology",
+      "value": "Carbon"
+    }
+  ],
+  "isDeleted": false
+}

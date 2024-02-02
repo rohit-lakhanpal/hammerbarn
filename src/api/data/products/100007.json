@@ -1,0 +1,88 @@
+{
+  "uid": 100007,
+  "name": "Quantum Adjustable 2-Light LED Emergency Lighting Unit by Lithonia",
+  "description": "The Quantum Adjustable 2-Light LED Black Emergency Lighting Unit from Lithonia Lighting provides a minimum of 90 minutes of illumination upon loss of power. Adjust the direction of light using the unique track-and-swivel design of the 2 heads. This unit is ideal for applications requiring attractive equipment with quick installation.Advanced LED technology is dependable and energy efficient2 adjustable heads allow you to direct light where it is neededEngineering-grade thermoplastic housing is impact-resistant, scratch-resistant and corrosion-proofIntegrated LEDs means no bulbs are requiredTypical life of the LEDs is 10 years of maintenance-free operationBlack housing has a compact low-profile designSealed, maintenance-free Ni-cad battery delivers 90 minute capacity to the LEDsDual voltage input capability (120 to 277-volt)Easily installs to wall or ceilingUL damp-location listed",
+  "attributes": [
+    {
+      "key": "Battery Power Type",
+      "value": "Ni-Cad"
+    },
+    {
+      "key": "Battery Size",
+      "value": ".Built-In"
+    },
+    {
+      "key": "Bulb Type Included",
+      "value": "LED"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,OSHA Compliant"
+    },
+    {
+      "key": "Commercial Light Type",
+      "value": "Exit and Emergency"
+    },
+    {
+      "key": "Connection Type",
+      "value": "Hardwired"
+    },
+    {
+      "key": "Emergency run time (min.)",
+      "value": "90"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Fixture Color/Finish",
+      "value": "Black"
+    },
+    {
+      "key": "Fixture Color/Finish Family",
+      "value": "Black"
+    },
+    {
+      "key": "Lamp heads",
+      "value": "Yes"
+    },
+    {
+      "key": "Light Source",
+      "value": "LED"
+    },
+    {
+      "key": "Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "Maximum Wattage (watts)",
+      "value": "0"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Lithonia Lighting"
+    },
+    {
+      "key": "Number of Bulbs Required",
+      "value": "0"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.25"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "1.5"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "10.25"
+    }
+  ],
+  "isDeleted": false
+}

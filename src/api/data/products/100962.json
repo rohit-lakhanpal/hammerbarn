@@ -1,0 +1,52 @@
+{
+  "uid": 100962,
+  "name": "Cooper Bussmann 20 Amp Electronics Microwave Fuses (2-Pack)",
+  "description": "The Cooper Bussmann ABC Series 20 Amp Fast-Act Microwave Fuses (2-Pack) feature ceramic-tube construction with nickel-plated-brass end caps to offer a higher amp/volt rating. These fuses are ideal for use in electronic circuits and are CSA- and UL listed.For use in electronic circuitsNickel-plated-brass end capsCeramic tube offers higher Amp /volt rating combinations250 volts",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Fuse"
+    },
+    {
+      "key": "Fuse Type",
+      "value": "Electronics"
+    },
+    {
+      "key": "Maximum Amperage (amps)",
+      "value": "20"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cooper Bussmann"
+    },
+    {
+      "key": "Number in Package",
+      "value": "1"
+    },
+    {
+      "key": "Power Distribution Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.63"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".04"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1.38"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "250"
+    }
+  ],
+  "isDeleted": false
+}

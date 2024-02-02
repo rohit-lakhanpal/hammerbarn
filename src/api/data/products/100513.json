@@ -1,0 +1,92 @@
+{
+  "uid": 100513,
+  "name": "Uglu GripTread",
+  "description": "Industries toughest silicon carbide grit embedded into a synthetic liner using an industrial grade adhesive. Construction allows placement on most any surfaces. Great for ladders, boats, trailers, steps, ramps and more. Can even be submerged into water once bonded. Cut into convenient strips for use almost anywhere.An industrial grade silicon carbide grit embedded into a synthetic carrier, gives this product the durability you expect outdoors, around the home or even under water. Resists chipping and flakingAn industrial grade adhesive allows bonding to most any clean, dry surface and will provide secure footing where you need it. Apply above 50 degreesBonds to most any surface including, painted and unpainted wood, metal, fiberglass, plastics and concrete. Great for use on tree stands, ladders, steps, boat docks, boat decks, stairs, ramps, trailers and moreGreat for use as a sanding pad",
+  "attributes": [
+    {
+      "key": "Adhesion level",
+      "value": "Medium to high"
+    },
+    {
+      "key": "Adhesive Product Type",
+      "value": "Glue/Epoxy"
+    },
+    {
+      "key": "Curing time (hours)",
+      "value": ".1"
+    },
+    {
+      "key": "Dries clear",
+      "value": "No"
+    },
+    {
+      "key": "Drillable",
+      "value": "Yes"
+    },
+    {
+      "key": "Flammable",
+      "value": "Yes"
+    },
+    {
+      "key": "Glue/epoxy type",
+      "value": "General purpose"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Uglu"
+    },
+    {
+      "key": "Moisture Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Glue and Epoxy"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0.031"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "6"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": ".1 oz"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": ".5"
+    },
+    {
+      "key": "Recommended surfaces",
+      "value": "Smooth non-porous surfaces"
+    },
+    {
+      "key": "Sandable",
+      "value": "No"
+    },
+    {
+      "key": "Set Time (Min.)",
+      "value": ".1"
+    },
+    {
+      "key": "Solvent resistant",
+      "value": "No"
+    },
+    {
+      "key": "Stainable/Paintable",
+      "value": "No"
+    },
+    {
+      "key": "UV/sunlight resistant",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

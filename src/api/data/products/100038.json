@@ -1,0 +1,112 @@
+{
+  "uid": 100038,
+  "name": "RIDGID X4 18V Compact Impact Wrench - Cordless Power Tool",
+  "description": "RIDGID presents the X4 18-Volt 1/2 in. Impact Wrench as a console item. With console-only tools, you have the option to add on to existing kits to create your own. This compact and lightweight cordless tool delivers 325 ft. lbs. of torque to power through the most demanding applications and comes loaded with features such as exclusive grip light technology that engages the LED light simply by holding the tool, innovative Hex Grip for maximum comfort and a Tri-Beam LED for optimum illumination. Backed by RIDGID\u0027s lifetime service agreement, you can count on free batteries, free parts and free service for the entire life of your tool.Includes tool only to create your own kit; battery and charger sold separatelyHigh torque output produces 325 ft. lbs. for heavy-duty applicationsDie-cast gear box for increased durability and professional quality1/2 in. dent pin anvil makes it compatible with popular impact rated socketsHex Grip innovative micro-texture for secure grip and maximum user comfortGrip light engages Tri-Beam LED light independently of trigger to illuminate work spaceCordless design enables easy use and portability",
+  "attributes": [
+    {
+      "key": "Amperage (amps)",
+      "value": "4"
+    },
+    {
+      "key": "Batteries Included",
+      "value": "No"
+    },
+    {
+      "key": "Battery Amp Hours",
+      "value": "0"
+    },
+    {
+      "key": "Battery Power Type",
+      "value": "Lithium Ion"
+    },
+    {
+      "key": "Battery Size",
+      "value": "Lithium Ion"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "Charger Included",
+      "value": "No"
+    },
+    {
+      "key": "Color Family",
+      "value": "Orange"
+    },
+    {
+      "key": "Cordless Tool Type",
+      "value": "Impact Wrench"
+    },
+    {
+      "key": "Cordless/Corded",
+      "value": "Cordless"
+    },
+    {
+      "key": "Drive Size (in.)",
+      "value": "1/2in"
+    },
+    {
+      "key": "Forward/Reverse Rocker Switch",
+      "value": "No"
+    },
+    {
+      "key": "Impacts Per Minute",
+      "value": "3200"
+    },
+    {
+      "key": "Maximum Speed (rpm)",
+      "value": "2900"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "RIDGID"
+    },
+    {
+      "key": "Number of Batteries Included",
+      "value": "0"
+    },
+    {
+      "key": "Power Tool Features",
+      "value": "LED Light"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Cordless"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "7.5"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "3.55"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8"
+    },
+    {
+      "key": "Reconditioned",
+      "value": "No"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Torque (lb-in)",
+      "value": "3600"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "18"
+    }
+  ],
+  "isDeleted": false
+}

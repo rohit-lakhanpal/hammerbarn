@@ -1,0 +1,52 @@
+{
+  "uid": 100571,
+  "name": "Cooper Bussmann 5A Silver Electronic Fuses (5-Pack)",
+  "description": "The Cooper Bussmann AGC Series 5 Amp Silver Electronic Fuses (5-Pack) are fast-acting fuses that help to power electronic circuits. These fuses have glass tubes with nickel-plated brass end caps and operate at a maximum of 250 Volts. These electronic fuses are UL- and CSA listed for safety.Fast-acting fuses used to power electronic circuitsNickel-plated brass end caps250 voltsUL- and CSA listed",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Fuse"
+    },
+    {
+      "key": "Fuse Type",
+      "value": "Electronics"
+    },
+    {
+      "key": "Maximum Amperage (amps)",
+      "value": "5"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cooper Bussmann"
+    },
+    {
+      "key": "Number in Package",
+      "value": "5"
+    },
+    {
+      "key": "Power Distribution Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.01"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "250"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 100910,
+  "name": "Homak USA Chemical-Resistant Spill Containment Platform Ramp",
+  "description": "This works well with our 2 drum modular spill containment platform and our 4 drum spill containment pallet. This ramp is perfect for any garage. It is made in the USA with high performance engineered plastic, which works great for chemical resistance.Low profile design for easy loading and unloadingLoad capacity 1,500 lb.Made in the USACompatible with the 2 drum modular spill containment platforms and the 4 drum spill containment pallet",
+  "attributes": [
+    {
+      "key": "Drive surface width (in.)",
+      "value": "32"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Homak"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "45.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "8"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "45.5"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "32"
+    },
+    {
+      "key": "Total weight capacity (lb.)",
+      "value": "1500"
+    },
+    {
+      "key": "Tread",
+      "value": "No"
+    },
+    {
+      "key": "Vehicle lift (in.)",
+      "value": "1"
+    }
+  ],
+  "isDeleted": false
+}

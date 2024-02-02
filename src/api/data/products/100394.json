@@ -1,0 +1,88 @@
+{
+  "uid": 100394,
+  "name": "Waterboss 22,000-Grain Water Softener with Installation DVD",
+  "description": "The Waterboss 22,000-Grain Water Softener features a 16 GPM water flow rate at 15 psi drop to help provide minimal pressure drop to your shower and appliances. The built-in sediment filter helps provide clean operation, and the compact design of the softener helps save space. The softener features a controller for easy use and includes an installation DVD to help make installation easy.16 GPM water flow rate at 15 psi drop helps provide minimal pressure drop to your shower and appliancesRegeneration uses 16.4 Gal. in as little as 19-1/2 minutes to help you save water and timeCompact design helps save spaceFactory-installed bypass helps extend the longevity of the filterReduces iron by 10 PPM for clear waterSafety shut-off system helps provide safe operationIncludes do-it-yourself installation DVD to help make installation easy",
+  "attributes": [
+    {
+      "key": "Alarm",
+      "value": "No"
+    },
+    {
+      "key": "Color Family",
+      "value": "Beige / Cream"
+    },
+    {
+      "key": "Indicator light(s)",
+      "value": "No"
+    },
+    {
+      "key": "Installation kit included",
+      "value": "No"
+    },
+    {
+      "key": "Iron reduction (ppm)",
+      "value": "10"
+    },
+    {
+      "key": "Maximum hardness removal (grains per gallon)",
+      "value": "70"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Waterboss"
+    },
+    {
+      "key": "Output betweeen refills (gallons)",
+      "value": "1400"
+    },
+    {
+      "key": "Permanent settings memory",
+      "value": "No"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "18.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "25.75"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "80"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "14.75 in"
+    },
+    {
+      "key": "Programmable",
+      "value": "Yes"
+    },
+    {
+      "key": "Quantity (cu. ft.)",
+      "value": ".7"
+    },
+    {
+      "key": "Regeneration time (min.)",
+      "value": "19.5"
+    },
+    {
+      "key": "Tank Length (in.)",
+      "value": "22"
+    },
+    {
+      "key": "Tank Width (in.)",
+      "value": "10"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "12"
+    },
+    {
+      "key": "Water required for regeneration (gallons)",
+      "value": "16.4"
+    }
+  ],
+  "isDeleted": false
+}

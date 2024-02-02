@@ -1,0 +1,88 @@
+{
+  "uid": 100196,
+  "name": "Rheem Compact 10 Gal. Electric Water Heater",
+  "description": "The Rheem Performance 10 Gal. Electric Point-of-Use Water Heater has a space saving design that\u0027s ideal for installations in tight spaces and can supply a quick source of hot water for a single application. The heater includes a 2,000-Watt element and a factory installed temperature and pressure relief valve. This point of use heater requires a 120-Volt electrical source for installation and can be mounted on a wall. This model has a 6 year limited tank and parts warranty plus a 1 year in home labor warranty.10 Gal. tank provides a small amount of hot water and is ideal for point of single point of use applicationsElectric water heater is easy to maintain6 year limited warranty on tank and parts for your convenience1 year in home labor warranty for peace of mindFactory installed pressure and temperature relief valveSingle 2000-Watt heating elementRequires a 120-Volt connection for installationSpace saving design is ideal for placement in kitchens, bathrooms and other areasUL approved for use in manufactured housingCan be mounted on a wall to help you conserve spaceDesigned for easy replacement of your existing water heaterWant it installed? Call 1-855-400-2552 before noon for same-day service in most areas, or visit our Water Heater Installation page for more information.",
+  "attributes": [
+    {
+      "key": "Application Type",
+      "value": "Point of Use"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Finish Family",
+      "value": "Gray"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Electric"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Maximum Temperature  (F)",
+      "value": "150"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Rheem"
+    },
+    {
+      "key": "Minimum Temperature (F)",
+      "value": "90"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "15.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "23"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "46"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "15.75"
+    },
+    {
+      "key": "Tank Capacity (gallons)",
+      "value": "10"
+    },
+    {
+      "key": "Tank Valve Size (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Water Connection Location",
+      "value": "Side"
+    },
+    {
+      "key": "Water Connection Size (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Water Heater Features",
+      "value": "Overheat Protection,Temperature Pressure Relief Valve"
+    },
+    {
+      "key": "Water Heater Profile",
+      "value": "Compact"
+    },
+    {
+      "key": "Wattage (watts)",
+      "value": "2000"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,116 @@
+{
+  "uid": 100358,
+  "name": "Philips Clear T8 Intermediate-Base Light Bulb, 40-Watt, Soft White",
+  "description": "The 40-Watt T8 Intermediate-Base Light Bulb provides a crisp white light that can shine up to 1,000 hours. This bulb is designed to be used in residential microwaves, sewing machines, ranges and other appliances. Use this bulb in 130-Volt fixtures or in intermediate-base sockets.Brightness: 200 LumensEstimated yearly energy cost: $4.82 (based on 3 hours/day, 11/kWh. cost depends on rates and use)Life hours: 1,000Light appearance: 2700K (soft white)Energy used: 40-WattLumens per Watt: 5Uses 0% less energy compared to a standard incandescent light bulbProvides a crisp, clear light perfect for residential microwaves, ranges, sewing machines and other appliance lightingDesigned to fit into almost any 130-Volt fixture or intermediate-based socketsT8 shape with a intermediate base",
+  "attributes": [
+    {
+      "key": "Actual Color Temperature (K)",
+      "value": "2700"
+    },
+    {
+      "key": "Average Life (hours)",
+      "value": "1000"
+    },
+    {
+      "key": "Bulb Diameter (In.)",
+      "value": "1"
+    },
+    {
+      "key": "Bulb Finish",
+      "value": "Clear"
+    },
+    {
+      "key": "Bulb Shape",
+      "value": "Other"
+    },
+    {
+      "key": "Bulb Type",
+      "value": "Specialty"
+    },
+    {
+      "key": "- Brightness",
+      "value": "200 Lumens"
+    },
+    {
+      "key": "- Estimated yearly energy cost",
+      "value": "$4.82 (based on 3 hours/day, 11\u00A2/kWh. cost depends on rates and use)"
+    },
+    {
+      "key": "- Life hours",
+      "value": "1,000"
+    },
+    {
+      "key": "- Light appearance",
+      "value": "2700K (soft white)"
+    },
+    {
+      "key": "- Energy used",
+      "value": "40-Watt"
+    },
+    {
+      "key": "- Lumens per Watt",
+      "value": "5"
+    },
+    {
+      "key": "Color Temperature",
+      "value": "Soft White"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Light Bulb Base Code",
+      "value": "Intermediate"
+    },
+    {
+      "key": "Light Bulb Base Type",
+      "value": "Intermediate"
+    },
+    {
+      "key": "Light Bulb Features",
+      "value": "Dimmable"
+    },
+    {
+      "key": "Light Bulb Shape Code",
+      "value": "T8"
+    },
+    {
+      "key": "Light Color",
+      "value": "Soft White"
+    },
+    {
+      "key": "Light Output (lumens)",
+      "value": "200"
+    },
+    {
+      "key": "Lighting Technology",
+      "value": "Incandescent"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Philips"
+    },
+    {
+      "key": "Number in Package",
+      "value": "1"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3.13"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1.02"
+    },
+    {
+      "key": "Wattage (watts)",
+      "value": "40"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 100292,
+  "name": "Prime-Line Torsion Spring Cable Drum - Die-Cast 1/8 in.",
+  "description": "This torsion spring cable drum is constructed from diecast. It accepts cables up to 1/8 in. in diameter with a maximum weight load of 265 lbs. per drum. This drum spools your lifting cable as your garage door is operated.Die-cast constructionUsed on torsion spring garage doorsAccepts cables up to 1/8 in. in diameterMaximum weight load of 265 lbs. per drumHanding is determined by standing inside the garage looking outward",
+  "attributes": [
+    {
+      "key": "Garage Door Part/Accessory Type",
+      "value": "Operating Hardware"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Prime-Line"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.125"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.5"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.625"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4.5"
+    }
+  ],
+  "isDeleted": false
+}

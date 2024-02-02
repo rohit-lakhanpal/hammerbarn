@@ -1,0 +1,28 @@
+{
+  "uid": 100202,
+  "name": "Ramsond SunRay 3000-Watt Pure Sine Wave Power Inverter",
+  "description": "Ramsond proudly introduces its new Sunray DC to AC Pure Sine Wave Power Inverter - Nearly a decade of research and development and real-world testing under demanding conditions have produced one of the most sophisticated power inverters in the world. Ramsond SunRays are advanced and reliable, producing pure (true) sine wave power for sensitive electronic equipment. Pure sine wave output is a far superior (cleaner) form of output power compared to modified sine wave or square wave power as utility company AC power is pure sine wave. Extremely rugged and powerful, yet compact and lightweight, Ramsond SunRays can be used for a wide variety of applications from home to business to jobsite and beyond. SunRays feature user-friendly LED displays and alarms that show real-time live data and information about the working conditions of the inverter, load and battery bank. They are also engineered for superior heat reduction and cooling, featuring ruffled heat sink fins and multiple internal fans. Ramsond inverters are tested and certified to be compliant with safety standards and are ETL listed.Rated DC input (Volt) - 12-Volt (10.5-Volt - 14.5-Volt)AC output (Volt) - 115Volt \u002B/- 10%Output frequency - 60 HzPeak power output - 3000-WattContinuous power output - 1500-WattPrecision extruded anodized aluminum shells, preventing corrosion and increased wear resistanceRuffled heat sink fins provide increased surface area for cooling and control air flowEquipped with three high speed rear fans, thermostatically controlled and will automatically engage when the internal temperature increasesRemote-ready for both wireless and wired control systems (remote system not included) using standard telephone cabling and connectorsETL listed and certified to comply with standards for safety by Intertek Laboratories and a government approved testing laboratoryHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Solar Power Inverter"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Ramsond"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "13"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "3.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "9.75"
+    }
+  ],
+  "isDeleted": false
+}

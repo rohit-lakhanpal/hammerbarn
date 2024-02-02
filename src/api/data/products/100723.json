@@ -1,0 +1,92 @@
+{
+  "uid": 100723,
+  "name": "PC Products MaxBond 16oz. Epoxy Paste - Heavy Duty Formula",
+  "description": "The PC Products PC-7 16 oz. Paste Epoxy is a heavy-duty epoxy that can be used for bonding, sealing and filling a variety of surfaces. This maximum-strength formula has virtually no sagging, shrinking or dripping.Can be used to bond, seal or fill most metals, fiberglass, ceramics, brick, block, glass, rubber, fabrics, stone, granite, marble, wood and some plasticsHigh-adhesive epoxy paste for maximum bonding powerFor indoor and outdoor use30 minutes of working time and cures for service in as little as 12 - 24 hoursMoisture resistantMinimal sagging, shrinking or dripping is ideal for vertical and overhead applicationsCan be shaped, molded, sanded and painted when cured",
+  "attributes": [
+    {
+      "key": "Adhesion level",
+      "value": "High"
+    },
+    {
+      "key": "Adhesive Product Type",
+      "value": "Glue/Epoxy"
+    },
+    {
+      "key": "Curing time (hours)",
+      "value": "24"
+    },
+    {
+      "key": "Dries clear",
+      "value": "No"
+    },
+    {
+      "key": "Drillable",
+      "value": "Yes"
+    },
+    {
+      "key": "Flammable",
+      "value": "No"
+    },
+    {
+      "key": "Glue/epoxy type",
+      "value": "Epoxy/super glue"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "PC Products"
+    },
+    {
+      "key": "Moisture Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Glue and Epoxy"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5.75"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": "16 oz"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3 in"
+    },
+    {
+      "key": "Recommended surfaces",
+      "value": "Brick,Ceramic,Concrete,General Purpose,Glass,Metal,Multi-Surface,Stone,Tile"
+    },
+    {
+      "key": "Sandable",
+      "value": "Yes"
+    },
+    {
+      "key": "Set Time (Min.)",
+      "value": "60"
+    },
+    {
+      "key": "Solvent resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Stainable/Paintable",
+      "value": "Paintable"
+    },
+    {
+      "key": "UV/sunlight resistant",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

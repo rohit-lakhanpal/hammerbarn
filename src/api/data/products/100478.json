@@ -1,0 +1,96 @@
+{
+  "uid": 100478,
+  "name": "Fiskars Power-Lever Extendable Tree Pruner",
+  "description": "Make reaching and cutting high branches easier than ever with our Power-Lever Extendable Tree Pruner. Power-Lever technology increases leverage to give you up to 2-times more cutting power than traditional tree pruners. The easy-to-handle, lightweight pole extends up to 14 ft. to put high branches within easy reach. The fully hardened, precision-ground steel pruning blade features a rust-resistant, low-friction coating that makes cutting easier, and an included 15 in. saw blade makes taking down thicker branches a breeze.Fully hardened, precision-ground steel pruning blade stays sharp, even though heavy useIdeal for cutting high branches without climbing a ladderLow-friction coating helps the blade glide through wood, prevents the blade from gumming up with sap and debris and helps the blade resist rustQuick-release thumb lock secures the extendable pole at the perfect lengthPower-lever technology maximizes leverage to give you up to 2-times more cutting power than traditional tree prunersMaximum cutting capacity: 1-1/8 in. Dia for the pruning bladeIncluded 15 in. saw blade powers through thicker branchesLifetime warranty",
+  "attributes": [
+    {
+      "key": "Blade cutting type",
+      "value": "Bypass"
+    },
+    {
+      "key": "Blade Length (In.)",
+      "value": "1.5 in"
+    },
+    {
+      "key": "Blade Material",
+      "value": "Steel"
+    },
+    {
+      "key": "- Maximum cutting capacity",
+      "value": "1-1/8 in. Dia for the pruning blade"
+    },
+    {
+      "key": "Coated Blades",
+      "value": "Yes"
+    },
+    {
+      "key": "Corrosion Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Forged Blade",
+      "value": "No"
+    },
+    {
+      "key": "Garden Center Tool Type",
+      "value": "Tree Pruners/Shears"
+    },
+    {
+      "key": "Gear Driven",
+      "value": "No"
+    },
+    {
+      "key": "Handle Length (in.)",
+      "value": "168"
+    },
+    {
+      "key": "Handle Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "Maximum Cutting Thickness (in.)",
+      "value": "1.125"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Fiskars"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "7.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "93"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "5.05"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Rotating Head",
+      "value": "No"
+    },
+    {
+      "key": "Sap Groove",
+      "value": "No"
+    },
+    {
+      "key": "Saw Attachment",
+      "value": "Yes"
+    },
+    {
+      "key": "Telescoping Handle",
+      "value": "Yes"
+    },
+    {
+      "key": "Tool Type",
+      "value": "Other Tool"
+    }
+  ],
+  "isDeleted": false
+}

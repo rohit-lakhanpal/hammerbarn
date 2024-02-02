@@ -1,0 +1,40 @@
+{
+  "uid": 100928,
+  "name": "ECHO Gutter Cleaning Kit - GroundSafe 7ft.",
+  "description": "Gutter cleaning is easier than ever before with this kit for the ECHO blower. No ladder needed - clean while standing on the ground. There is a 7 ft. length that attaches to your ECHO blower, safety goggles and all hardware for assembly.Allows you to clean your gutters while safely on the groundFor use with non Posi-loc equipped ECHO blowers7 ft. long when fully assembledKit includes tubes, assembly hardware and safety glasses",
+  "attributes": [
+    {
+      "key": "Fits brands",
+      "value": "ECHO"
+    },
+    {
+      "key": "Fits models",
+      "value": "Fits all ECHO blower models with standard pipes (Except PB-650)"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "ECHO"
+    },
+    {
+      "key": "Part Type",
+      "value": "Engine Part"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "39.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "6.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5.5"
+    },
+    {
+      "key": "Used with equipment type",
+      "value": "Blower"
+    }
+  ],
+  "isDeleted": false
+}

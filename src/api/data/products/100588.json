@@ -1,0 +1,52 @@
+{
+  "uid": 100588,
+  "name": "Cooper Bussmann 3A Automotive Fuses (5-Pack)",
+  "description": "The Cooper Bussmann AGC Series 3 Amp Silver Automotive Fuses (5-Pack) are intended for use in automotive applications. These fuses are rated for up to 3 amps and 250 volts each. The fuses are CSA- and UL listed and feature nickel-plated brass end caps and glass-tube constructions.For use in automotive applicationsNickel-plated brass end capsGlass-tube constructions3 Amp s and 250 voltsCSA- and UL listedIncludes 5 fuses",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Fuse"
+    },
+    {
+      "key": "Fuse Type",
+      "value": "Automotive"
+    },
+    {
+      "key": "Maximum Amperage (amps)",
+      "value": "3"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cooper Bussmann"
+    },
+    {
+      "key": "Number in Package",
+      "value": "5"
+    },
+    {
+      "key": "Power Distribution Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.01"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "250"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 100034,
+  "name": "Marshalltown Tampico Masonry Brush - 6.625 inch Width",
+  "description": "Use the Marshalltown Masonry Brush for a wide variety of tasks, including your concrete, cement and masonry needs. The white Tampico fiber bristles are set in a hardwood block.Bristles are made of white Tampico fiberBristles are set in a hardwood blockUse for your concrete, cement and masonry needsUse for a variety of other tasks",
+  "attributes": [
+    {
+      "key": "Brush width (in.)",
+      "value": "6.625"
+    },
+    {
+      "key": "Concrete Tool Type",
+      "value": "Brush"
+    },
+    {
+      "key": "Handle Length (in.)",
+      "value": "7"
+    },
+    {
+      "key": "Material",
+      "value": "Tampico"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Marshalltown"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "11.875"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "6.5"
+    }
+  ],
+  "isDeleted": false
+}

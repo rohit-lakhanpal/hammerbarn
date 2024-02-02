@@ -1,0 +1,40 @@
+{
+  "uid": 100642,
+  "name": "DuraHeat Handheld Plastic Siphon Pump - Liquid Transfer Accessory",
+  "description": "The DuraHeat Plastic Siphon Pump is made for simple, hand-held operation. It is designed to help transfer kerosene, light oils and liquid soaps without spilling. Pumps up to 0.55 GPM.Designed to transfer kerosene, light oils and liquid soaps without spillingNot for use with corrosive solventsDurable, high-density plasticFlexible outlet tubeSimple, hand-held operation",
+  "attributes": [
+    {
+      "key": "Accessory type",
+      "value": "Manual Siphon"
+    },
+    {
+      "key": "Heating Product Type",
+      "value": "Accessory"
+    },
+    {
+      "key": "Heating Technology Type",
+      "value": "Radiant"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DuraHeat"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2 in"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "25 in"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".225 lb"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5 in"
+    }
+  ],
+  "isDeleted": false
+}

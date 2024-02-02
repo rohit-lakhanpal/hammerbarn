@@ -1,0 +1,56 @@
+{
+  "uid": 100997,
+  "name": "Quikrete 60 lb. Concrete Mix - High-Strength All-Purpose Gray Concrete",
+  "description": "Quikrete 60 lb. Concrete Mix is ideal for both structural and non structural applications over 2 in. thick. This ready to use product contains a blend of portland cement, sand, gravel, and other approved ingredients. Quikrete 60 lb. Concrete Mix is perfect for projects requiring a quality, general use concrete mix.Ideal for sidewalks, steps, walkways, foundations, footings, and other general concrete workPerfect for setting mailbox posts, fence posts, and lamp postsHigh-strength 4,000 PSI concreteJust add waterMeets ASTM C 387 compressive strength requirementsNote: Product may vary by store",
+  "attributes": [
+    {
+      "key": "- Note",
+      "value": "Product may vary by store"
+    },
+    {
+      "key": "Color Family",
+      "value": "Gray"
+    },
+    {
+      "key": "Compression strength (psi)",
+      "value": "4000"
+    },
+    {
+      "key": "Material",
+      "value": "Concrete"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Quikrete"
+    },
+    {
+      "key": "Mix Type",
+      "value": "All-Purpose"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "60"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Vertical/overhead use",
+      "value": "No"
+    },
+    {
+      "key": "Working time (min.)",
+      "value": "60"
+    }
+  ],
+  "isDeleted": false
+}

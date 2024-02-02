@@ -1,0 +1,112 @@
+{
+  "uid": 100686,
+  "name": "Porter-Cable Crown Combo Air Compressor Kit",
+  "description": "This Porter-Cable combo kit is ideal for crown moulding, staircases and interior trim work. Included in this combo kit is a C2002 6-gallon, 150 PSI compressor, FN250SB: 16-gauge 2-1/2 in. finish nailer, 25 ft. of 1/4 in. air hose with a coupler and plug, 2 in. length finish nails and belt hook accessory. The compressor features two regulated, factory-installed air couplers to easily support two users. Its body is made with steel for strength and has an upgraded shroud and console cover to protect its vital components. The compressor features an oil-free pump to eliminate the need for maintenance. The tank is designed to operate at 150 max PSI.6-gallon tank allows users to drive a large quantity of nails on a single tank chargeInnovative shroud allows for better protection and portability150 PSI max allows users to drive more nails than a traditional 135 max PSI compressor30 lb. weight allows compressor to be easily carried and storedCompressor features a long life, oil-free, maintenance free pump for conveniencePorter-Cable high-efficiency motor on compressor for easy startup in cold weather or extension cord application120-volt electric unit allows user to run compressor on standard household current10-amp current draw allows use of compressor with a 16-gauge or heavier extension cord (50 ft. or less)FN250SB uses standard 16-gallon finish nails from 1 to 2-1/2 in. longTool-free depth-of-drive adjustment with detents for proper setting of nail headsTool-free jam release mechanism for easy nail removal2.6 SCFM at 90 PSI allows for quick compressor recovery timeTool-free adjustable exhaustTool-free adjustable exhaustHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Air Delivery SCFM @ 40PSI",
+      "value": "3.5"
+    },
+    {
+      "key": "Air Delivery SCFM @ 90PSI",
+      "value": "2.6"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "10"
+    },
+    {
+      "key": "Application Use",
+      "value": "Air Brushing,Blow Cleaning,Bolting/Wrenching,Brad Nailing/Stapling,Finish Nailing,Framing Nailing,Hobby Painting,Inflation,Spraying"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "ETL Listed"
+    },
+    {
+      "key": "Compressor Tank Capacity (Gallons)",
+      "value": "6"
+    },
+    {
+      "key": "Compressor Type",
+      "value": "Trim"
+    },
+    {
+      "key": "Compressor/Air Tool Features",
+      "value": "Handle,Oil Free Compressor"
+    },
+    {
+      "key": "Decibel Rating (Outdoor)",
+      "value": "78 dBA"
+    },
+    {
+      "key": "Horsepower (hp)",
+      "value": ".8"
+    },
+    {
+      "key": "Included",
+      "value": "Brad Nailer,Hose"
+    },
+    {
+      "key": "Lubrication Type",
+      "value": "Oil Free"
+    },
+    {
+      "key": "Maximum Pressure (psi)",
+      "value": "150"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Porter-Cable"
+    },
+    {
+      "key": "Portable",
+      "value": "Yes"
+    },
+    {
+      "key": "Power Source",
+      "value": "Electric"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "20.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "20.75"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "42"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "16.75"
+    },
+    {
+      "key": "Stage Count",
+      "value": "Single Stage"
+    },
+    {
+      "key": "Tank Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Tank Style",
+      "value": "Pancake"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Air Compressor Kit"
+    },
+    {
+      "key": "Twin Stack Tank Configuration",
+      "value": "Yes"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "120"
+    }
+  ],
+  "isDeleted": false
+}

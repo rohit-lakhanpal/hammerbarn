@@ -1,0 +1,64 @@
+{
+  "uid": 100353,
+  "name": "DEWALT ToughCase 25ft Tape Measure",
+  "description": "The DEWALT DWHT33975L tape measure is one of the toughest tapes on the market. This tape features Tough Case durable case construction which means more rubber, more metal and 5 screws. The Tough blade high carbon steel blade has a remarkable 13 ft. of standout.1-1/4 in. bladeLarge, easy to read numbersImproved drop durability-maintains accuracy after dropEnlarged multi hook ideal for framing applications; hook grabs easily on top, bottom, and sidesOversized metal wear plateIntegrated lanyard slot allows attachment of lanyards for elevated work environments",
+  "attributes": [
+    {
+      "key": "Belt clip",
+      "value": "Yes"
+    },
+    {
+      "key": "Electronic",
+      "value": "No"
+    },
+    {
+      "key": "Hand Tool Type",
+      "value": "Measuring Tape"
+    },
+    {
+      "key": "Housing depth (in.)",
+      "value": "2.19"
+    },
+    {
+      "key": "Housing height (in.)",
+      "value": "3.25"
+    },
+    {
+      "key": "Housing Length (in.)",
+      "value": "3.38"
+    },
+    {
+      "key": "Housing Material",
+      "value": "Acrylonitrile Butadiene Styrene (ABS)"
+    },
+    {
+      "key": "Lockable",
+      "value": "Yes"
+    },
+    {
+      "key": "Magnetic Tip",
+      "value": "No"
+    },
+    {
+      "key": "Measurement Standard",
+      "value": "SAE"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DEWALT"
+    },
+    {
+      "key": "Tape Length (ft.)",
+      "value": "25"
+    },
+    {
+      "key": "Tape Length (ft.)",
+      "value": "25 ft"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Hand Tool"
+    }
+  ],
+  "isDeleted": false
+}

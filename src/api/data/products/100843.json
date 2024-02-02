@@ -1,0 +1,100 @@
+{
+  "uid": 100843,
+  "name": "ECHO Professional Backpack Blower, 58.2cc, 2-Stroke, 215 mph - \u0022ECHO ProBlow 580\u0022",
+  "description": "The PB-580H features a 58.2cc professional-grade, 2-stroke engine with a hip-mounted throttle. It delivers 510 CFM and 215 mph blowing performance. A unique vented backpack circulates air around the user for increased comfort in hot weather.Padded backrest and shoulder straps provide operator comfortPleated, automotive-style air filter for improved filtration and long engine lifeA leaf guard prevents overheating due to leaves and other debris blocking the blower intakeMetal wear ring at the end of the tube protects the pipe from damageHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Antivibration",
+      "value": "Yes"
+    },
+    {
+      "key": "Assembled Depth (in.)",
+      "value": "63 in"
+    },
+    {
+      "key": "Assembled Height (in.)",
+      "value": "18 in"
+    },
+    {
+      "key": "Assembled Width (in.)",
+      "value": "21 in"
+    },
+    {
+      "key": "Assembly Required",
+      "value": "Yes"
+    },
+    {
+      "key": "Blower Type",
+      "value": "Backpack Blower"
+    },
+    {
+      "key": "CA (CARB) Compliant",
+      "value": "CARB Compliant"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "CARB Compliant,EPA Approved"
+    },
+    {
+      "key": "Commercial",
+      "value": "Yes"
+    },
+    {
+      "key": "Engine Cycles",
+      "value": "2 Cycle"
+    },
+    {
+      "key": "Engine Displacement (cc)",
+      "value": "58.2"
+    },
+    {
+      "key": "Engine Type",
+      "value": "2-stroke"
+    },
+    {
+      "key": "Fuel tank capacity (oz.)",
+      "value": "68.3"
+    },
+    {
+      "key": "Interchangeable nozzle connections",
+      "value": "No"
+    },
+    {
+      "key": "Maximum air speed (mph)",
+      "value": "215"
+    },
+    {
+      "key": "Maximum Air Volume (CFM)",
+      "value": "510"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "ECHO"
+    },
+    {
+      "key": "Noise rating (dB)",
+      "value": "70"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "22.8"
+    },
+    {
+      "key": "Reconditioned",
+      "value": "No"
+    },
+    {
+      "key": "Start Type",
+      "value": "Manual"
+    },
+    {
+      "key": "Translucent fuel tank",
+      "value": "Yes"
+    },
+    {
+      "key": "Variable speeds",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

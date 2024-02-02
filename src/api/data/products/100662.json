@@ -1,0 +1,60 @@
+{
+  "uid": 100662,
+  "name": "Hillman Group Heavy Duty Galvanized Steel Eye Bolt",
+  "description": "Machinery Eye Bolts are high strength bolts for heavy duty applications. Eye bolts provide a method for anchoring chain and wire rope to a fixed surface such as wood, metal, concrete, etc. Forged galvanized steel material is extra strong and recommended for exterior applications.Hex nuts are not includedSafe working load = 1300 lbs.Plain steel self coloredDo not use to hang loads, lift loads, support weight of persons or objects, and do not use on athletic or playground equipment",
+  "attributes": [
+    {
+      "key": "Assembled Depth (in.)",
+      "value": "2.31 in"
+    },
+    {
+      "key": "Assembled Height (in.)",
+      "value": "1.56 in"
+    },
+    {
+      "key": "Assembled Width (in.)",
+      "value": "2.68 in"
+    },
+    {
+      "key": "Fastener length (in.)",
+      "value": "3.2813"
+    },
+    {
+      "key": "Fastener Plating",
+      "value": "nan"
+    },
+    {
+      "key": "Fastener Thread Type",
+      "value": "Coarse"
+    },
+    {
+      "key": "Fastener Type",
+      "value": "Eye Bolt"
+    },
+    {
+      "key": "Fastener/Connector Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Head diameter (in.)",
+      "value": "1"
+    },
+    {
+      "key": "Measurement Standard",
+      "value": "USS"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "The Hillman Group"
+    },
+    {
+      "key": "Package Quantity",
+      "value": "1"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.15"
+    }
+  ],
+  "isDeleted": false
+}

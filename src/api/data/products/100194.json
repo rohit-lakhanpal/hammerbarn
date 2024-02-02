@@ -1,0 +1,52 @@
+{
+  "uid": 100194,
+  "name": "DEWALT 20V Max Lithium-Ion Battery Pack (2-Pack)",
+  "description": "DEWALT delivers huge value with this two-pack, priced only marginally higher than a single device. These lithium-ion batteries are compatible with all tools in the DEWALT 20-Volt Max product line, giving you the long-lasting power and versatility required at remote job sites. Each 3Ah battery weighs just 1.42 lbs. and has a built-in LED fuel indicator so you know how much juice remains on each charge.Includes (2) 20-Volt Max 3Ah lithium-ion batteriesCompatible with all 20-Volt Max lithium-ion chargers and power tools (sold separately)No memory and virtually no self-discharge for maximum productivity and less downtimeEach battery weighs just 1.42 lbs.3-year free service warranty",
+  "attributes": [
+    {
+      "key": "Battery Power Type",
+      "value": "Lithium Ion"
+    },
+    {
+      "key": "Color Family",
+      "value": "Black"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DEWALT"
+    },
+    {
+      "key": "Power Tool Accessory Type",
+      "value": "Battery"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Power Tool Accessory"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "2.375"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Rechargeable",
+      "value": "Yes"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "20"
+    }
+  ],
+  "isDeleted": false
+}

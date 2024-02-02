@@ -1,0 +1,52 @@
+{
+  "uid": 100743,
+  "name": "DEWALT Fiber-Reinforced Grinding Wheel - Heavy Duty, 4\u0022 Diameter",
+  "description": "Fiber-reinforced bonded abrasive grinding wheel provides a quick way to grind and shape metals such as steel, aluminum, iron, copper, brass, pipe, and nonferrous materials. Additionally, the range masonry wheels safely cut brick, stone, marble and concrete block.High grain concentration for aggressive grinding action and smooth running wheelsProprietary material mix ensures durable, long-life wheelsThree full sheets of fiberglass for durabilityHigh performance aluminum oxide grain for long life and high material removal",
+  "attributes": [
+    {
+      "key": "Application",
+      "value": "Heavy Duty"
+    },
+    {
+      "key": "Arbor Size",
+      "value": ".625"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DEWALT"
+    },
+    {
+      "key": "Power Tool Accessory Type",
+      "value": "Sanding/Grinding/Polishing Accessory"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Power Tool Accessory"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4"
+    },
+    {
+      "key": "Sanding, Grinding and Polishing Accessory Type",
+      "value": "Grinding/Cut-Off Wheels"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Wheel Diameter (in.)",
+      "value": "4"
+    }
+  ],
+  "isDeleted": false
+}

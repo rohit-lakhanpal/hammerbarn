@@ -1,0 +1,56 @@
+{
+  "uid": 100369,
+  "name": "Ideal Greenie Grounding Connector",
+  "description": "The IDEAL Greenie Grounding Connector is designed for making ground connections and bonding non-metallic sheathed cable. They fully meet the intent of NEC and specifically aids in compliance with sections 250.146 and 250.148. Specially designed contoured wings make for extra torque and quick work on any electrical job.Live-action, square-wire spring provides superior grounding connectionsFor use with #14 to #10 AWG copper conductorsMinimum wire range: 2 #14 AWG, maximum wire range: 4 #12 AWGTough UL 94 Volt-2 flame-retardant shell rated at 221 degrees fahrenheitUL listed to 486C and CSA certified to C22.2 #188Compliant with federal specification w-s-610EMade in the U.S.A. of U.S. and global components",
+  "attributes": [
+    {
+      "key": "- Minimum wire range",
+      "value": "2 #14 AWG, maximum wire range: 4 #12 AWG"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,CSA Listed"
+    },
+    {
+      "key": "Color Family",
+      "value": "Green"
+    },
+    {
+      "key": "Electrical Product Type",
+      "value": "Wire Connector"
+    },
+    {
+      "key": "Maximum Wire Capacity",
+      "value": "Max. 4 #12 AWG"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Ideal"
+    },
+    {
+      "key": "Minimum Wire Capacity",
+      "value": "Min. 2 #14 AWG"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0.938"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1.234"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "0.938"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "600"
+    },
+    {
+      "key": "Wire Type",
+      "value": "Bare Copper"
+    }
+  ],
+  "isDeleted": false
+}

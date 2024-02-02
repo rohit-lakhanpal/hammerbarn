@@ -1,0 +1,96 @@
+{
+  "uid": 100492,
+  "name": "Lithonia LED High Bay Light, 2 ft. White Enamel",
+  "description": "The 2 ft. LED High Bay Light is ideal for lighting large spaces like warehouses, retail spaces, garages, gyms, manufacturing facilities and work areas. It is the energy efficient and maintenance free replacement or upgrade choice for existing HID metal halide and fluorescent high bay light fixtures. This fixture is 31% more efficient than traditional T5HO fluorescent high bays. Upgrading to LED means you save money on energy bills and you don\u0027t have to worry about changing bulbs.High-performance 4000K LEDs produce 11,200 Lumens over an average life of 60,000 hoursEnergy-efficient LED technology is 31% more efficient than T5HO fluorescent, saving you money on power billsA frosted acrylic lens prevents glare and shields the LEDsDurable steel construction is built to last and is finished in white enamel for a clean appearance36 in. suspension mounting kit is included (fixture not designed for surface mounting)CSA listed for damp locationsAccommodates a fixture-mount motion sensor for added energy savings and convenience",
+  "attributes": [
+    {
+      "key": "Actual Color Temperature (K)",
+      "value": "4000"
+    },
+    {
+      "key": "Bulb Type Included",
+      "value": "LED"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "CSA Listed"
+    },
+    {
+      "key": "Color Rendering Index",
+      "value": "78"
+    },
+    {
+      "key": "Commercial Light Type",
+      "value": "High Bay"
+    },
+    {
+      "key": "Connection Type",
+      "value": "Hardwired"
+    },
+    {
+      "key": "Dimmable",
+      "value": "Yes"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Fixture Color/Finish",
+      "value": "White"
+    },
+    {
+      "key": "Fixture Color/Finish Family",
+      "value": "White"
+    },
+    {
+      "key": "Hardware Included",
+      "value": "Yes"
+    },
+    {
+      "key": "Length/circumference (in.)",
+      "value": "22.13"
+    },
+    {
+      "key": "Light Bulb Base Code",
+      "value": "Other"
+    },
+    {
+      "key": "Maximum Bulb Wattage",
+      "value": "125 W"
+    },
+    {
+      "key": "Maximum Wattage (watts)",
+      "value": "0"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Lithonia Lighting"
+    },
+    {
+      "key": "Number of Bulbs Required",
+      "value": "0"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "23.8"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5.3"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "10"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "16.2"
+    },
+    {
+      "key": "Recommended Light Bulb Shape Code",
+      "value": "A15"
+    }
+  ],
+  "isDeleted": false
+}

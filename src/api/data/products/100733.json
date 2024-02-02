@@ -1,0 +1,44 @@
+{
+  "uid": 100733,
+  "name": "Agri-Fab SmartSpreader 130 lb. Push Broadcast Spreader",
+  "description": "The Agri-Fab SmartSpreader 130 lb. Push Broadcast Spreader is ideal for all-season use as a fertilizer spreader in the summer or an ice melt spreader in the winter. This spreader offers a wide 12 ft. spread width to help you finish your spreading tasks quicker. An easy-to-read adjustable flow stop ensures the spreader puts out only as much spread as you request for minimal spread waste and double coverage.Extra-large 130 lb. hopper capacity accommodates big yards and paved surfacesBroadcast spread pattern throws fertilizer in a wide swath for more uniform coverageEasy-to-read adjustable flow stop means you only put out the amount of spread you desireDesigned to spread fertilizer, pesticide, salt and seedLarge pneumatic tires for increased maneuverabilityEnclosed commercial-grade gearbox for long-lasting use3 year limited warranty",
+  "attributes": [
+    {
+      "key": "Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Agri-Fab"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "48"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "33.625"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "27.125 in"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "35"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "27.125 in"
+    },
+    {
+      "key": "Spread width (in.)",
+      "value": "120"
+    },
+    {
+      "key": "Spreader type",
+      "value": "Broadcast"
+    }
+  ],
+  "isDeleted": false
+}

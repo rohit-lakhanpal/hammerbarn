@@ -1,0 +1,44 @@
+{
+  "uid": 100613,
+  "name": "Oatey PVC Membrane Bonding Adhesive Kit",
+  "description": "The Oatey X-15 16 oz. Bonding Adhesive is designed to bond PVC membrane sheeting. The adhesive is ideal for use in custom-built showers and for adhering the dam corners over the shower curb. Fast-acting adhesive creates a strong bond.Formulated with a mixture of solvents and resinsDesigned for use with PVC flexible-liner membranesNot for use on PVC pipe and fittingsDo not use with chlorinated polyethylene (CPE) flexible-liner membraneIncludes an in-lid applicator",
+  "attributes": [
+    {
+      "key": "Applicator in lid",
+      "value": "Yes"
+    },
+    {
+      "key": "Colored",
+      "value": "No"
+    },
+    {
+      "key": "Maintenance, Repair \u0026 Supplies Product Type",
+      "value": "Miscellaneous Repair Kit"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Oatey"
+    },
+    {
+      "key": "Pipe Material/Type",
+      "value": "PVC"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Quantity (oz.)",
+      "value": "16"
+    }
+  ],
+  "isDeleted": false
+}

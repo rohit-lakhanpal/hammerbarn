@@ -1,0 +1,40 @@
+{
+  "uid": 100406,
+  "name": "Milwaukee USB Power Source Charger - 2.1 Amp Output",
+  "description": "The M12 Power Source, compatible with all M12 Battery Packs, features a 2.1-amp powered USB port that charges tablets, smart phones, mp3 players, and other portable electronic devices. This smart-charge port identifies the electronic device being charged; delivering fast, safe charging. The adapter features an on-board fuel gauge, and is compatible with all M12 Heated Gear, providing up to 6 hours of continuous heat on a single charge. (Battery sold separately).2.1-amp powered USB port charges all portable electronic devices, including tabletsOn-board fuel gaugeCompatible with all M12 battery packsCompatible with all M12 heated gear",
+  "attributes": [
+    {
+      "key": "Actuated Tool Type",
+      "value": "Accessory"
+    },
+    {
+      "key": "Color Family",
+      "value": "Red"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Milwaukee"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Powder Actuated"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "6.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "6"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,120 @@
+{
+  "uid": 100008,
+  "name": "Teks Metal-Tapping Hex Screws, 1-1/2 in. (90-Pack)",
+  "description": "The Teks #10 x 1-1/2 in. Zinc-Plated Steel Washer-Head Hex Self-Tapping Drill-Point Screws (90-Pack) helps you fasten metal to metal. The steel screw is ideal for use with metal of a thicker gauge. Drill point and flute remove material and size holes for threads. Install using a standard screw gun (not included) and a 5/16 in. hex drive bit (not included). No pre-drilling required.For metal to metal fasteningIdeal for use with metal of a thicker gaugeUse with HVAC, electrical and door applicationsScrews tap their own headsSteel construction1-1/2 in. longZinc-plated",
+  "attributes": [
+    {
+      "key": "Assembled Depth (in.)",
+      "value": ".375 in"
+    },
+    {
+      "key": "Assembled Height (in.)",
+      "value": "1.5 in"
+    },
+    {
+      "key": "Assembled Width (in.)",
+      "value": ".375 in"
+    },
+    {
+      "key": "Coated",
+      "value": "N"
+    },
+    {
+      "key": "Drive Style",
+      "value": "External Hex"
+    },
+    {
+      "key": "Driver bit included",
+      "value": "No"
+    },
+    {
+      "key": "Fastener Callout Size",
+      "value": "#10 x 1-1/2 In."
+    },
+    {
+      "key": "Fastener Head Style",
+      "value": "Hex"
+    },
+    {
+      "key": "Fastener length (in.)",
+      "value": "1.5"
+    },
+    {
+      "key": "Fastener Plating",
+      "value": "Zinc"
+    },
+    {
+      "key": "Fastener Thread Type",
+      "value": "Standard"
+    },
+    {
+      "key": "Fastener Type",
+      "value": "Self-Drilling Screw"
+    },
+    {
+      "key": "Fastener/Connector Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Finish",
+      "value": "Zinc-plated"
+    },
+    {
+      "key": "Finish Family",
+      "value": "Metallic"
+    },
+    {
+      "key": "Head diameter (in.)",
+      "value": ".375"
+    },
+    {
+      "key": "Head Style",
+      "value": "Flange Hex"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "Measurement Standard",
+      "value": "SAE"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Teks"
+    },
+    {
+      "key": "Package Quantity",
+      "value": "90"
+    },
+    {
+      "key": "Primary Use",
+      "value": "Metal to metal fastening"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".012"
+    },
+    {
+      "key": "Screw Length",
+      "value": "1-1/2 in"
+    },
+    {
+      "key": "Self drilling",
+      "value": "Yes"
+    },
+    {
+      "key": "Self tapping",
+      "value": "Yes"
+    },
+    {
+      "key": "Size",
+      "value": "#10"
+    },
+    {
+      "key": "Tamper Resistant",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

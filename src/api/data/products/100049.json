@@ -1,0 +1,64 @@
+{
+  "uid": 100049,
+  "name": "Henry White Elastomeric Roof Coating - Energy Star Approved, 10-Year Warranty",
+  "description": "Henry 587 Durabrite white elastomeric roof coating is a premium, high solids formula offering better weather protection, solar reflectivity and longevity than economy grade reflective roof coatings. Cured coating forms a permeable membrane which prevents liquid infiltration, but allows moisture vapor to vent, or breathe out of underlying substrate. As an ENERGY STAR partner, Henry has determined that this product meets the ENERGY STAR guidelines for energy efficiency.California residents: see\u0026nbsp;Proposition 65 informationWhite surface reflects sun rays and releases 91% of the sun\u0027s heat for energy efficiencyResists ponding waterRecommended for use on metal roofs, weathered, previously-coated white and aluminum roof surfaces, smooth-surface built-up roofs, stucco, masonry parapet walls and more10-year warrantyElastomastic to expand and contract without crackingEnergy Star approved",
+  "attributes": [
+    {
+      "key": "Coating Base",
+      "value": "Water"
+    },
+    {
+      "key": "Coating Consistency",
+      "value": "Other"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Commercial / Residential",
+      "value": "Commercial / Residential"
+    },
+    {
+      "key": "Container type",
+      "value": "Bucket"
+    },
+    {
+      "key": "Dry Time",
+      "value": "4 h"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "Yes"
+    },
+    {
+      "key": "Fire Rating",
+      "value": "0"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Henry"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "14"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Roofing Product Type",
+      "value": "Roof Coating"
+    },
+    {
+      "key": "Surface Recommended",
+      "value": "Metal roofs; Well adhered, weathered, previously coated white or aluminum roof surfaces; Mineral surface cap sheet; Smooth surface BUR and SBS roofs; Stucco and masonry parapet walls."
+    }
+  ],
+  "isDeleted": false
+}

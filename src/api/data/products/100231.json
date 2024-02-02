@@ -1,0 +1,132 @@
+{
+  "uid": 100231,
+  "name": "Everbilt Pre-Plumbed Sink Tray System with 0.25 HP Sump Pump",
+  "description": "The Everbilt Pre Plumbed Sink Tray System with 0.25 HP Sump Pump is designed for use as an alternative to direct drain sinks. Ideal for washing machines, wet bar, air conditioner and dehumidifier discharge. The system comes pre plumbed and ready to install. Its modified octagonal shape maximizes capacity while minimizing the space required. Fits into corners. The durable, automatic unit features a maximum pumping capacity of 2,850 GPH.Comes pre plumbed and ready to install40% quieter and 42% more flow than previous modelInstalls easily and drains areas such as wet bars and laundry tubs where no drain is providedModified octagonal shape maximizes capacity while minimizing the space required, fits into cornersSystem includes an automatic sump pump, a check valve and a heavy duty 6 gal. basinHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Adjustable Speed",
+      "value": "No"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "5"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "CSA Certified"
+    },
+    {
+      "key": "Cord Length (ft.)",
+      "value": "10"
+    },
+    {
+      "key": "Corrosion Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Discharge Flow @ 0 ft. (gallons/hour)",
+      "value": "2850"
+    },
+    {
+      "key": "Discharge Flow @ 10 ft. (gallons/hour)",
+      "value": "2300"
+    },
+    {
+      "key": "Float Switch",
+      "value": "Yes"
+    },
+    {
+      "key": "Hardware Included",
+      "value": "Yes"
+    },
+    {
+      "key": "Head Pressure (ft.)",
+      "value": "20"
+    },
+    {
+      "key": "Horsepower (hp)",
+      "value": ".25"
+    },
+    {
+      "key": "Housing Material",
+      "value": "Aluminum"
+    },
+    {
+      "key": "Inlet Connection",
+      "value": "Threaded female"
+    },
+    {
+      "key": "Maximum Discharge Flow (gallons/hour)",
+      "value": "2850"
+    },
+    {
+      "key": "Maximum Pumping Height (ft.)",
+      "value": "20"
+    },
+    {
+      "key": "Maximum Working Temperature (F)",
+      "value": "130"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Everbilt"
+    },
+    {
+      "key": "Minimum working temperature (F)",
+      "value": "40"
+    },
+    {
+      "key": "Outlet Connection",
+      "value": "Threaded female"
+    },
+    {
+      "key": "Pool Cover Pump",
+      "value": "No"
+    },
+    {
+      "key": "Power Type Required",
+      "value": "AC"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "15.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "15.19"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "18"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "13.81"
+    },
+    {
+      "key": "Pump Switch Type",
+      "value": "Vertical"
+    },
+    {
+      "key": "Run-Dry Capable",
+      "value": "No"
+    },
+    {
+      "key": "Self-Priming",
+      "value": "Yes"
+    },
+    {
+      "key": "Submersible",
+      "value": "Yes"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "115"
+    },
+    {
+      "key": "Waterfall Pump",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

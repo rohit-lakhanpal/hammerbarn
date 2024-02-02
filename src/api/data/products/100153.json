@@ -1,0 +1,76 @@
+{
+  "uid": 100153,
+  "name": "Leviton 3-Way Toggle Switch - White",
+  "description": "Leviton offers a comprehensive line of UL Listed products for every electrical need. Leviton\u0027s wiring devices and accessories are backed by state-of-the-art research, design, engineering, manufacturing, testing and quality assurance. You won\u0027t find a more complete selection anywhere else.Controls light(s) from two locationsTwo 3-way switches must be used in 3-way circuitQuickwire push-in and side wiredLarge triple combination screws Robertson/Phillips/slotted for fast wiring",
+  "attributes": [
+    {
+      "key": "Amperage (amps)",
+      "value": "15"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Color/Finish",
+      "value": "White"
+    },
+    {
+      "key": "Electrical Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Electrical Product Type",
+      "value": "Switch"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Leviton"
+    },
+    {
+      "key": "Number of Poles",
+      "value": "1"
+    },
+    {
+      "key": "Number of Switches",
+      "value": "1"
+    },
+    {
+      "key": "Package Quantity",
+      "value": "1"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.05"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.2"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1.31"
+    },
+    {
+      "key": "Switch Style",
+      "value": "Toggle"
+    },
+    {
+      "key": "Switch Type",
+      "value": "Specialty"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "120/277"
+    },
+    {
+      "key": "Wall Plate Included",
+      "value": "No"
+    }
+  ],
+  "isDeleted": false
+}

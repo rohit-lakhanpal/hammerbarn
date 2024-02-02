@@ -1,0 +1,52 @@
+{
+  "uid": 100564,
+  "name": "DryConn Aqua/Orange Waterproof Wire Connector",
+  "description": "The DryConn Aqua/Orange was developed twenty-five years ago as a part of King Innovation\u0027s line of original waterproof wire connectors. This quality one-step connector is filled with a dielectric silicone sealant, making it an ideal choice for outdoor electrical splices that will be exposed to condensation, water vapors, or dust. In addition, the DryConn Aqua/Orange meets the conditions set by the 2008 and 2011 NEC Code Book, requiring a UL 486D listed connector to be used for all splices in wet locations.1-Step connectorMinimum capacity of 4 #14 wiresMaximum capacity of 2 #8 wiresWater resistantCorrosion resistantUL 486D listed",
+  "attributes": [
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "Color Family",
+      "value": "Blue"
+    },
+    {
+      "key": "Electrical Product Type",
+      "value": "Wire Connector"
+    },
+    {
+      "key": "Maximum Wire Capacity",
+      "value": "(2) #8"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DryConn"
+    },
+    {
+      "key": "Minimum Wire Capacity",
+      "value": "(4) #14"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "8.5"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3.75"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "600"
+    },
+    {
+      "key": "Wire Type",
+      "value": "Other"
+    }
+  ],
+  "isDeleted": false
+}

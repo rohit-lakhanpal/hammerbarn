@@ -1,0 +1,68 @@
+{
+  "uid": 100811,
+  "name": "TimeOut Brass DIY Automatic Shut Off Valve",
+  "description": "Automatic single handle replacement shut off valve. The TimeOut is designed for the washing machine water supply connection. This unit Shuts water off in 2.5 hours to protect you from water hose bursting.Can fit Symmons, Watts, Oatey and other similar single handle valvesSimple 5 step process, only a screwdriver and wrench requiredMade of durable brass and tested for long lifeNo electricity needed to run, no sensors to setupBest insurance for protecting your home against catastrophic water damage",
+  "attributes": [
+    {
+      "key": "Compatible Pipe Material",
+      "value": "Copper type L hard temper"
+    },
+    {
+      "key": "Connection",
+      "value": "Comp"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Material",
+      "value": "Brass"
+    },
+    {
+      "key": "Maximum Pressure (psi)",
+      "value": "135"
+    },
+    {
+      "key": "Maximum Working Temperature (F)",
+      "value": "250"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "TimeOut"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "3.5"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "4.13"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "2"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4"
+    },
+    {
+      "key": "Rating",
+      "value": "150 psi"
+    },
+    {
+      "key": "Valve Inlet Diameter (in.)",
+      "value": ".05"
+    },
+    {
+      "key": "Valve Outlet Diameter (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Valve Use",
+      "value": "Water"
+    }
+  ],
+  "isDeleted": false
+}

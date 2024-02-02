@@ -1,0 +1,72 @@
+{
+  "uid": 100332,
+  "name": "Milwaukee Brass Ball Valve - Lead Free, Full Port, 600psi",
+  "description": "The Milwaukee Industrial Lead Free Ball Valve is constructed of heavy forged brass and has a lever handle with Female connections on both ends. Designed for residential and commercial use on water air, steam, oil or gas. Full port for maximum flow and minimum pressure drops. This multi-purpose manual lever ball valve has excellent corrosion resistance and is fit for many applications.Forged brass constructionLead free design is suitable for all potable water supply installationsEasy quarter-turn operationAdjustable threaded gland",
+  "attributes": [
+    {
+      "key": "Compatible Pipe Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Connection",
+      "value": "FIP x FIP"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Material",
+      "value": "Brass"
+    },
+    {
+      "key": "Maximum Pressure (psi)",
+      "value": "600"
+    },
+    {
+      "key": "Maximum Working Temperature (F)",
+      "value": "200"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Milwaukee"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1.75"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".64"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5"
+    },
+    {
+      "key": "Rating",
+      "value": "600 psi"
+    },
+    {
+      "key": "Valve Inlet Diameter (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Valve Outlet Diameter (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Valve Use",
+      "value": "Gas,Oil,Water"
+    }
+  ],
+  "isDeleted": false
+}

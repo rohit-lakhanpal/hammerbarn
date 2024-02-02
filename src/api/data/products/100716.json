@@ -1,0 +1,72 @@
+{
+  "uid": 100716,
+  "name": "Century 80% Space-Saving Gas Furnace with Convection Heating",
+  "description": "At just 34-1/2 in. high, our 80 percent space-saving furnace is ideally suited to both new construction and replacements. Models can fit into the space of virtually any furnace being replaced, including attics, crawl spaces and utility closets. Because of the small size, it\u0027s easy to handle, fitting easily through most doors and hallways.Completely assembled, the furnace is ready for installation with a color-coded wiring harness and quick connect fittingsIntegrated solid state control board speeds installationDiagnostic lights make it easy to troubleshoot operationMaintenance and servicing is easy to do with readily accessible componentsTwo-piece doors remove quickly and door screws are secured to the doors so they can\u0027t be lost after they\u0027re loosenedTwo-piece doors remove quickly and door screws are secured to the doors so they can\u0027t be lost after they\u0027re loosened.Equipment should be sized, selected and installed by a qualified professional to ensure proper installation, safe operation, adherence to federal, state and local codes and for valid warranty. See installation guide for more details.Professional Installation recommendedClick here for more information",
+  "attributes": [
+    {
+      "key": "Annual Fuel Utilization Efficiency (AFUE) (%)",
+      "value": "80"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,CSA Listed,ETL Listed"
+    },
+    {
+      "key": "Energy Consumption (kWh/year)",
+      "value": "1"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Fuel Gauge",
+      "value": "No"
+    },
+    {
+      "key": "Gas or Electric",
+      "value": "Gas"
+    },
+    {
+      "key": "Heat rating (BTU/hour)",
+      "value": "90000"
+    },
+    {
+      "key": "Heating Product Type",
+      "value": "Forced Air Furnace"
+    },
+    {
+      "key": "Heating Technology Type",
+      "value": "Convection"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Century"
+    },
+    {
+      "key": "Number of Blower Speeds",
+      "value": "4 or More"
+    },
+    {
+      "key": "Power/Fuel Type",
+      "value": "Natural Gas"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "28"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "34.5"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "120"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "17.5"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "uid": 100318,
+  "name": "Rust-Oleum LeakSeal Rubberized Sealant",
+  "description": "Rust-Oleum LeakSeal is an easy to use, rubberized protective utility coating designed to fill and seal leaks and cracks. It provides a water-tight, flexible seal that prevents moisture penetration, rust, and corrosion. LeakSeal dries to a semi-smooth, firm finish that will not sag or drip, and can be top-coated with latex or oil based paints.California residents: see\u0026nbsp;Proposition 65 informationOil base formula; excellent filling and building capability; will not sag or dripMulti-surface/multi-purpose use; for use on metal, aluminum, galvanized metal, PVC, concrete, masonry, asphalt roofing materials, vinyl siding, fiberglass, and moreDry time approximately 2 hoursCoverage is can be up to 10 sq. ft. depending on the surface porosity, excellent filling and building capability to fill and seal gaps, cracks, and holes",
+  "attributes": [
+    {
+      "key": "Coating Product Category",
+      "value": "Paint"
+    },
+    {
+      "key": "Container Size",
+      "value": "13 OZ-Ounce"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "12.5"
+    },
+    {
+      "key": "Dry to touch (min.)",
+      "value": "30"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Rust-Oleum Stops Rust"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Patching and Repair Product"
+    },
+    {
+      "key": "Paint/Stain Clean Up",
+      "value": "Mineral Spirits"
+    },
+    {
+      "key": "Paint/Stain Key Features",
+      "value": "No additional features"
+    },
+    {
+      "key": "Sheen",
+      "value": "Flat/Matte"
+    },
+    {
+      "key": "Tint Base",
+      "value": "Base 1"
+    },
+    {
+      "key": "Tintable",
+      "value": "No"
+    },
+    {
+      "key": "Transparency",
+      "value": "Clear-Crystal Clear"
+    }
+  ],
+  "isDeleted": false
+}

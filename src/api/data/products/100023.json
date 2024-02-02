@@ -1,0 +1,56 @@
+{
+  "uid": 100023,
+  "name": "Quikrete Crack-Resist Concrete Mix",
+  "description": "Quikrete 80 lb. Crack-Resistant Concrete is designed to significantly reduce the amount of cracking caused by drying shrinkage. This concrete is ideal for driveways, walkways, floors, sidewalks and patios. The special blend of cement, sand, gravel, fibers and admixtures makes this the perfect concrete for both the professional and novice user who wants to tackle a concrete project.Designed to be used in slab-on-grade applications without the use of wire meshReduces the amount of cracking caused by drying shrinkageOffers superior workabilityProvides superior impact resistance4,000 PSI concrete mixNote: Product may vary by store",
+  "attributes": [
+    {
+      "key": "- Note",
+      "value": "Product may vary by store"
+    },
+    {
+      "key": "Color Family",
+      "value": "Gray"
+    },
+    {
+      "key": "Compression strength (psi)",
+      "value": "4000"
+    },
+    {
+      "key": "Material",
+      "value": "Concrete"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Quikrete"
+    },
+    {
+      "key": "Mix Type",
+      "value": "Crack Resistant"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "80"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Vertical/overhead use",
+      "value": "No"
+    },
+    {
+      "key": "Working time (min.)",
+      "value": "60"
+    }
+  ],
+  "isDeleted": false
+}

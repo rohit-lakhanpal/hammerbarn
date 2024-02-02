@@ -1,0 +1,48 @@
+{
+  "uid": 100056,
+  "name": "Bare Ground Ice-Melt Liquid Deicer - Environmentally Friendly, Non-Toxic",
+  "description": "Bare Ground liquid deicer is the most environmentally friendly deicing product available. Bare Ground can be used before, during or after a snow or ice storm. Safe on all surfaces and around pets and plants. Bare Ground is an All-natural, Non-toxic and Virtually non-corrosive mix of magnesium chloride liquid and a corn co-product. Meets or exceeds the most stringent US environmental specifications.All-naturalEnvironment friendlyVirtually non-corrosiveWater solubleNon-stainingNon-toxicSafe on all surfacesSafe around pets and plantsMeets stringent US environmental specsCan reduce an accumulation of snow if used at the start of a storm-20F low temperature residual spot de-icer",
+  "attributes": [
+    {
+      "key": "Concentrated",
+      "value": "No"
+    },
+    {
+      "key": "Ice Melt Features",
+      "value": "Includes Magnesium Chloride,Safe for Pets,Safe for Vegetation"
+    },
+    {
+      "key": "Lowest effective temperature (F)",
+      "value": "-20"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Bare Ground"
+    },
+    {
+      "key": "Outdoor Living Product Type",
+      "value": "Ice Melt"
+    },
+    {
+      "key": "Package size (gallons)",
+      "value": "4"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Product Form",
+      "value": "Liquid"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "12"
+    }
+  ],
+  "isDeleted": false
+}

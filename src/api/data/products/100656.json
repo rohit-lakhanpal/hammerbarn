@@ -1,0 +1,156 @@
+{
+  "uid": 100656,
+  "name": "LG CoolBreeze 5000 Window Air Conditioner",
+  "description": "Help keep your room cool with the LG Electronics 5,000 BTU Window Air Conditioner (LW5012). The air conditioner can cool a room of up to 150 sq. ft. and features adjustable temperature settings for a customized cool. The air conditioner\u0027s 2-way air deflection helps spread cool air evenly throughout your room for comfort. Its mechanical controls offer a sleek look, and a built-in timer makes it easy to set up an automatic cooling schedule.Designed to cool up to 150 sq. ft. for temperature control in a small roomDesigned for installation in a window that measures 21 - 35 in. W and at least 12 in. H2-way air deflection helps spread the cool air throughout the roomAdjustable settings for customized coolingMechanical controls for ease of use and a sleek appearanceWashable filter helps save money on replacementsEnergy efficiency rating of 9.7Ivory color for an attractive lookUL listed for safetyIvory colorMechanical ControlsNo RemoteHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "A/C Cooling Rate (BTU/hr)",
+      "value": "5000"
+    },
+    {
+      "key": "A/C Coverage Area (sq. ft.)",
+      "value": "150"
+    },
+    {
+      "key": "Air Conditioner Product Type",
+      "value": "Window Unit"
+    },
+    {
+      "key": "Air direction/circulation",
+      "value": "2-way"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "4.8"
+    },
+    {
+      "key": "Assembled Depth (in.)",
+      "value": "12.81 in"
+    },
+    {
+      "key": "Assembled Height (in.)",
+      "value": "11.13 in"
+    },
+    {
+      "key": "Assembled Width (in.)",
+      "value": "17.31 in"
+    },
+    {
+      "key": "Automatic shutoff",
+      "value": "No"
+    },
+    {
+      "key": "BTU Cooling Rating",
+      "value": "5000 Btu/h"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "Color",
+      "value": "Ivory"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Controls",
+      "value": "Mechanical"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "150"
+    },
+    {
+      "key": "Decibel Rating",
+      "value": "52 dBA"
+    },
+    {
+      "key": "Decibel Rating (Indoor)",
+      "value": "52 dBA"
+    },
+    {
+      "key": "Decibel Rating (Outdoor)",
+      "value": "56 dBA"
+    },
+    {
+      "key": "Energy Efficiency Ratio (EER)",
+      "value": "9.7"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Filter light reminder",
+      "value": "No"
+    },
+    {
+      "key": "Filter Type",
+      "value": "Washable"
+    },
+    {
+      "key": "Heater included",
+      "value": "No"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "LG Electronics"
+    },
+    {
+      "key": "Number of cool settings",
+      "value": "2"
+    },
+    {
+      "key": "Number of Fan Speeds",
+      "value": "2"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "12.81"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "11.13"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "40"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "17.31"
+    },
+    {
+      "key": "Remote Control",
+      "value": "No"
+    },
+    {
+      "key": "Sleep setting",
+      "value": "No"
+    },
+    {
+      "key": "Timer",
+      "value": "No"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "115"
+    },
+    {
+      "key": "Window opening maximum width (in.)",
+      "value": "35"
+    },
+    {
+      "key": "Window opening minimum height (in.)",
+      "value": "12"
+    },
+    {
+      "key": "Window opening minimum width (in.)",
+      "value": "21"
+    }
+  ],
+  "isDeleted": false
+}

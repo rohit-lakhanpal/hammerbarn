@@ -1,0 +1,52 @@
+{
+  "uid": 100201,
+  "name": "Cooper Bussmann GMA 5 Amp Glass Tube Fuse (Pack of 5)",
+  "description": "Designed for fast-acting, low-breaking capacity, the Cooper Bussmann GMA 5 Amp Glass Tube Fuse features brass end caps. This fuse is rated to 125 volts and is UL and CSA listed for safety.Glass tube with brass end capsUL and CSA safety listings5 Amp125 volt",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Fuse"
+    },
+    {
+      "key": "Fuse Type",
+      "value": "Electronics"
+    },
+    {
+      "key": "Maximum Amperage (amps)",
+      "value": "5"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cooper Bussmann"
+    },
+    {
+      "key": "Number in Package",
+      "value": "5"
+    },
+    {
+      "key": "Power Distribution Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "0.38"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.03"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "125"
+    }
+  ],
+  "isDeleted": false
+}

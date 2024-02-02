@@ -1,0 +1,140 @@
+{
+  "uid": 100489,
+  "name": "\u0022RIO Compact Ductless Mini-Split Heat Pump\u0022",
+  "description": "The RIO High Efficiency Ductless Mini-Split Heat Pump system is compact, quiet and provides unmatched comfort in any room. The RIO outdoor compressor section is powered by a twin rotary compressor with GREE\u0027s DC Inverter technology. This inverter technology with eco-friendly R-410a refrigerant to saves you energy, reduces outdoor noise and keeps room temperature steady by eliminating the constant starts and stops of conventional air conditioning systems. The RIO indoor section is designed to be a comfortable fit in virtually any living space. A Universal Piping assembly/line-set (sold separately) is required for installation - be sure to select the appropriate size.DC inverter technologyHigh efficiency16 SEER5 year parts warranty - 7 year compressor warranty1/4 in. x 3/8 in. universal piping assembly/line-set (sold separately) is required; choose your appropriate length (15 ft., 25 ft., or 50 ft.)Recommended for professional purchase onlyDuctless split air conditioning system installations require professional contractor support, proper installation requires the use of a state licensed or certified HVAC contractor in order for the manufacturer\u0027s limited warranty to apply, please see full warranty statement for details",
+  "attributes": [
+    {
+      "key": "Air Conditioner Product Type",
+      "value": "Mini Split Unit"
+    },
+    {
+      "key": "Air direction/circulation",
+      "value": "4-way"
+    },
+    {
+      "key": "Air handler",
+      "value": "Single Zone"
+    },
+    {
+      "key": "Air handler depth (in.)",
+      "value": "8"
+    },
+    {
+      "key": "Air handler height (in.)",
+      "value": "11.1"
+    },
+    {
+      "key": "Air handler weight (lb.)",
+      "value": "20"
+    },
+    {
+      "key": "Air handler width (in.)",
+      "value": "30.3"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "5.2"
+    },
+    {
+      "key": "Automatic shutoff",
+      "value": "No"
+    },
+    {
+      "key": "BTU Cooling Rating",
+      "value": "12000"
+    },
+    {
+      "key": "BTU Heat Rating",
+      "value": "12000"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "ETL Listed"
+    },
+    {
+      "key": "Color",
+      "value": "Bisque"
+    },
+    {
+      "key": "Color Family",
+      "value": "Beige/bisque"
+    },
+    {
+      "key": "Compressor depth (in.)",
+      "value": "12.5"
+    },
+    {
+      "key": "Compressor height (in.)",
+      "value": "21.6"
+    },
+    {
+      "key": "Compressor weight (lb.)",
+      "value": "68"
+    },
+    {
+      "key": "Compressor width (in.)",
+      "value": "28"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "400"
+    },
+    {
+      "key": "Decibel Rating",
+      "value": "34 dBA"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Filter light reminder",
+      "value": "Yes"
+    },
+    {
+      "key": "Filter Type",
+      "value": "Mesh"
+    },
+    {
+      "key": "Heater included",
+      "value": "Yes"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "GREE"
+    },
+    {
+      "key": "Number of cool settings",
+      "value": "27"
+    },
+    {
+      "key": "Number of Fan Speeds",
+      "value": "4 or More"
+    },
+    {
+      "key": "Remote Control",
+      "value": "Yes"
+    },
+    {
+      "key": "Seasonal Energy Efficiency Ratio (SEER)",
+      "value": "16"
+    },
+    {
+      "key": "Self-diagnostic tools",
+      "value": "Yes"
+    },
+    {
+      "key": "Sleep setting",
+      "value": "Yes"
+    },
+    {
+      "key": "Timer",
+      "value": "Yes"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "230"
+    }
+  ],
+  "isDeleted": false
+}

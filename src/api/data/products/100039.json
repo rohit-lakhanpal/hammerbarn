@@ -1,0 +1,88 @@
+{
+  "uid": 100039,
+  "name": "Emberglow HeatMaster Dual-Fuel Gas Stove",
+  "description": "The Emberglow Vent-Free Gas Stove helps add warmth and ambiance to your home. The stove can heat up to 1,000 sq. ft. of space and features a thermostat control for easy temperature maintenance. The stove\u0027s oxygen depletion sensor and automatic shut-off feature help provide safety and its black metal casing can help add an enhanced look to your decor.Automatic thermostat can be set to the desired heat output and the system will automatically maintain that temperatureUnit has dual fuel technology which means it can be operated using natural gas or liquid propane99.9% energy efficient, the vent free design keeps 100% of the heat in your homeHand painted logs give this unit the most realistic look of a natural fireDual burner provides real yellow flames throughout the logsEquipped with a safety oxygen depletion sensor (O.D.S.) and automatic shut-offNo electricity required, great for use as supplemental heat during power outages",
+  "attributes": [
+    {
+      "key": "Area Heated (Sq. Ft.)",
+      "value": "1000"
+    },
+    {
+      "key": "Assembled Depth (in.)",
+      "value": "13 in"
+    },
+    {
+      "key": "Assembled Height (in.)",
+      "value": "25 in"
+    },
+    {
+      "key": "Assembled Width (in.)",
+      "value": "35.4 in"
+    },
+    {
+      "key": "Assembly Required",
+      "value": "No"
+    },
+    {
+      "key": "Burner System",
+      "value": "Dual"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "ANSI Certified"
+    },
+    {
+      "key": "Features",
+      "value": "Adjustable Thermostat,Oxygen Depletion System,Pedestal Base,Rear heat shield,Side heat shield"
+    },
+    {
+      "key": "Firebox depth (in.)",
+      "value": "10"
+    },
+    {
+      "key": "Firebox height (in.)",
+      "value": "11"
+    },
+    {
+      "key": "Firebox width (in.)",
+      "value": "25"
+    },
+    {
+      "key": "Fuel type",
+      "value": "Dual Fuel"
+    },
+    {
+      "key": "Material",
+      "value": "Steel"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Emberglow"
+    },
+    {
+      "key": "Mount type",
+      "value": "Freestanding"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "13"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "25"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "51.2"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "35.4"
+    },
+    {
+      "key": "Vented or Vent-Free",
+      "value": "Vent-Free"
+    }
+  ],
+  "isDeleted": false
+}

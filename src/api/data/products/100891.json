@@ -1,0 +1,168 @@
+{
+  "uid": 100891,
+  "name": "LG Electronics 10,000 BTU Through-the-Wall Air Conditioner with Heater",
+  "description": "This LT1035HNR unit has a Low Noise level of only (51 dBA). The unit comes standard with corrosion protection to protect from salt air or any other kind airborne contaminants that can ruin the air conditioner fins. So sit back and relax. The remote control will do all the work for you. Through-the-Wall (TTW) wall sleeve sold separately.Estimated Cooling Area 450 sq. ft.10,000 BTU cooling/11,200 heating ensures your comfortInstalls through the wall with a wall sleeve (not included). Through-the-Wall (TTW) wall sleeve sold separately2-speed cooling and fan lets you select the right setting to suit your needs while affording a range of adjustment to deliver comfort4-way Air Direction: Enjoy the cool air even more with our 4 way air direction. By adjusting the deflection, air is directed up, down, left or right. So you can move the air where it is needed mostDigital Electronic Touch Controls: Control the temperature of your room with just a push of a button24 hour On/Off timer lets you create a cooling schedule without wasting electricity. An energy efficient programmable timer that can turn on your air conditioner before you arrive home or turn off after you leaveRemote control that is stylish and easy to use which allows you to cool down from across the roomWashable and Reusable air filter saves money on replacementsAutomatically restarts after a power failure. There are storms, high winds and extreme heat that can lead to power outages. Keep yourself covered with AutoRestart, which automatically turns the unit back on when power is restoredRemoves up to 3.2 pt. of moisture from the air in a hour to control humidityDimensions: 24-33/50 in. W x 14-16/39 in. H x 19-33/50 in. DVoltage/60 Hz: 230/208Filter light reminder",
+  "attributes": [
+    {
+      "key": "A/C Cooling Rate (BTU/hr)",
+      "value": "10000"
+    },
+    {
+      "key": "A/C Coverage Area (sq. ft.)",
+      "value": "450"
+    },
+    {
+      "key": "Air Conditioner Product Type",
+      "value": "Through the Wall Unit"
+    },
+    {
+      "key": "Air direction/circulation",
+      "value": "4-way"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "4.7"
+    },
+    {
+      "key": "Automatic shutoff",
+      "value": "No"
+    },
+    {
+      "key": "BTU Cooling Rating",
+      "value": "10000"
+    },
+    {
+      "key": "BTU Heat Rating",
+      "value": "11200"
+    },
+    {
+      "key": "- 4-way Air Direction",
+      "value": "Enjoy the cool air even more with our 4 way air direction. By adjusting the deflection, air is directed up, down, left or right. So you can move the air where it is needed most"
+    },
+    {
+      "key": "- Digital Electronic Touch Controls",
+      "value": "Control the temperature of your room with just a push of a button"
+    },
+    {
+      "key": "- Dimensions",
+      "value": "24-33/50 in. W x 14-16/39 in. H x 19-33/50 in. D"
+    },
+    {
+      "key": "- Voltage/60 Hz",
+      "value": "230/208"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed"
+    },
+    {
+      "key": "Color",
+      "value": "White"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Controls",
+      "value": "Digital"
+    },
+    {
+      "key": "Cut-Out Front to Back Width (in.)",
+      "value": "16.72"
+    },
+    {
+      "key": "Cut-Out Height (in.)",
+      "value": "15.53"
+    },
+    {
+      "key": "Cut-Out Left to Right Length (in.)",
+      "value": "25.88"
+    },
+    {
+      "key": "Decibel Rating",
+      "value": "51 dBA"
+    },
+    {
+      "key": "Decibel Rating (Indoor)",
+      "value": "51 dBA"
+    },
+    {
+      "key": "Decibel Rating (Outdoor)",
+      "value": "60 dBA"
+    },
+    {
+      "key": "Energy Efficiency Ratio (EER)",
+      "value": "9.8"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Filter light reminder",
+      "value": "Yes"
+    },
+    {
+      "key": "Filter Type",
+      "value": "Washable"
+    },
+    {
+      "key": "Heater included",
+      "value": "Yes"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "LG Electronics"
+    },
+    {
+      "key": "Number of cool settings",
+      "value": "2"
+    },
+    {
+      "key": "Number of Fan Speeds",
+      "value": "2"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "19.66"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "14.41"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "78"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "24.66"
+    },
+    {
+      "key": "Remote Control",
+      "value": "Yes"
+    },
+    {
+      "key": "Self-diagnostic tools",
+      "value": "No"
+    },
+    {
+      "key": "Sleep setting",
+      "value": "No"
+    },
+    {
+      "key": "Sleeve Included",
+      "value": "No"
+    },
+    {
+      "key": "Timer",
+      "value": "Yes"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "230"
+    }
+  ],
+  "isDeleted": false
+}

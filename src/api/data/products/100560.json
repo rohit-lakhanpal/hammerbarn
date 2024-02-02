@@ -1,0 +1,88 @@
+{
+  "uid": 100560,
+  "name": "DEWALT Variable Speed Polisher with Soft Start and Wool Shield",
+  "description": "The DEWALT DWP849X 7 in./9 in. Variable Speed Polisher with Soft Start features a powerful, 12 Amp, all ball-bearing construction motor for long life and durability. Electronic control maintains the specified speed under load, delivering the desired finish results, while the conveniently located variable speed dial lets you set the maximum speed from 0-600/3500 RPM for different materials and applications. A variable-speed trigger allows you to control speed from zero to the dialed maximum setting easily. Designed for efficiency, the polisher includes heat-treated, precision-cut steel gears for smooth operation and external brush caps for easy servicing, with a large spindle lock button for quick and simple backing plate changes. It also features a wool ingestion shield to increase your tool\u0027s life and reduce service costs for years of hassle-free use.Includes polisher, hook and loop backing pad bale and straight side handles12.0 Amp, all ball-bearing construction ensures lasting useVariable speed dial lets you match the speed to each unique applicationVariable speed trigger allows for easy controlPrecision-cut steel gears deliver smooth operationWool ingestion shield eliminates wool ingestion for longer tool lifeNon-mar rubber gear case cover reduces surface imperfections and improves gripping surface90-day money-back guarantee, 1-year free service contract and 3-year limited warrantyHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Amperage (amps)",
+      "value": "12"
+    },
+    {
+      "key": "Arbor Size",
+      "value": "5/8 in.-11"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "No Certifications or Listings"
+    },
+    {
+      "key": "Color Family",
+      "value": "Yellow"
+    },
+    {
+      "key": "Cord Length (ft.)",
+      "value": "10"
+    },
+    {
+      "key": "Corded Tool Type",
+      "value": "Polisher"
+    },
+    {
+      "key": "Cordless/Corded",
+      "value": "Corded"
+    },
+    {
+      "key": "Maximum Speed (rpm)",
+      "value": "3500"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "DEWALT"
+    },
+    {
+      "key": "Power Tool Features",
+      "value": "Variable Speed"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Corded"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "21.73"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.45"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "10.16"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8.98"
+    },
+    {
+      "key": "Random orbit",
+      "value": "No"
+    },
+    {
+      "key": "Reconditioned",
+      "value": "No"
+    },
+    {
+      "key": "Switch Type",
+      "value": "trigger"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Variable Speed",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

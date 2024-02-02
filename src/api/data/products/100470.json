@@ -1,0 +1,40 @@
+{
+  "uid": 100470,
+  "name": "Cub Cadet ProTek Lawn Tractor Cover with Reinforced Vent",
+  "description": "The black Cub Cadet Deluxe Lawn Tractor Cover provides all-season protection for your lawn and garden tractor. Made from coated ProTek fabric. The tractor cover resists water, mildew, shrinking and stretching.All-season protection for riding mowers or tractorsWater repellent, mildew resistant and stretch resistantReinforced vent allows air circulation and helps prevent ballooning in windElastic hem for a custom fitStorage bag included",
+  "attributes": [
+    {
+      "key": "Air vents",
+      "value": "Yes"
+    },
+    {
+      "key": "Elastic hem",
+      "value": "Yes"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Cub Cadet"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "70 in"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "43 in"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "42.5 in"
+    },
+    {
+      "key": "Storage pocket",
+      "value": "No"
+    },
+    {
+      "key": "Used with equipment type",
+      "value": "Riding Mower"
+    }
+  ],
+  "isDeleted": false
+}

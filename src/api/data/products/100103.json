@@ -1,0 +1,36 @@
+{
+  "uid": 100103,
+  "name": "Commercial Electric Electrician\u0027s 3-Piece Tool Set",
+  "description": "The Commercial Electric 3-Piece Electrician\u0027s Tool Set is a great assortment of electrical tools perfect for the home, workshop or jobsite. This set is a great value for 3 very popular and commonly used electrician\u0027s tools. The set includes 7 in. Diagonal Wire Cutting Pliers, 7 in. Wire Cutting Pliers and 8 in. long nose pliers.8 in. long nose pliers feature drop-forged heat-treated steel construction with induction-hardened cutting edge for durability, for bending and shaping wire and solid joint design for smooth tool operation, ergonomic molded anti-slip grip handles7 in. wire cutting pliers feature drop-forged heat-treated steel construction with induction-hardened cutting edge for durability, notched jaw tips for firm gripping and solid joint design for smooth tool operation, ergonomic molded anti-slip grip handles7 in. diagonal wire cutting pliers feature drop-forged heat-treated steel construction with induction-hardened cutting edge for durability and ergonomic molded anti-slip grip handles7 in. diagonal wire cutting pliers also feature short jaws for easy cutting in tight areas and a solid joint design that provides smooth operation",
+  "attributes": [
+    {
+      "key": "Electrical Product Type",
+      "value": "Tool"
+    },
+    {
+      "key": "Electrical Tool Type",
+      "value": "Tool Set"
+    },
+    {
+      "key": "Insulated",
+      "value": "No"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Commercial Electric"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.02"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "11.1"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "7.99"
+    }
+  ],
+  "isDeleted": false
+}

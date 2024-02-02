@@ -1,0 +1,52 @@
+{
+  "uid": 100882,
+  "name": "General Dowel Pro Kit",
+  "description": "Since 1910, General Tools has grown to become the recognized industry leader for specialty hand tools and instruments. General\u0027s E-Z Dowel Kit includes everything you need to make beautiful wood joints like a pro. The heavy duty aluminum jig effectively simplifies the doweling process, allowing you to create Edge-to-Edge, Right Angle and Edge-to-Surface joints with little effort. The kit also includes three Brad Point drill bits and drill stops, as well as dowel center pins and a collection of wood dowels. Instructions included.California residents: see\u0026nbsp;Proposition 65 informationFor use with 1/4 in., 5/16 in. and 3/8 in. joint sizesHeavy-duty aluminum constructionMakes edge-to-edge, right angle and edge-to-surface jointsIncludes 1 doweling jig, 3 brad point drill bits, 3 drill stops and wrench, 3 drill bushings; all in 1/4 in., 5/16 in. and 3/8 in. sizesAlso includes 6 dowel center points in 1/4 in., 5/16 in. and 3/8 in. sizesInstructions included",
+  "attributes": [
+    {
+      "key": "Jig type",
+      "value": "Doweling"
+    },
+    {
+      "key": "Material",
+      "value": "Aluminum"
+    },
+    {
+      "key": "Maximum stock size (in.)",
+      "value": "1"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "General Tools"
+    },
+    {
+      "key": "Minimum stock size (in.)",
+      "value": "0.675"
+    },
+    {
+      "key": "Power Tool Accessory Type",
+      "value": "Jig"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Power Tool Accessory"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "9"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8.5"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    }
+  ],
+  "isDeleted": false
+}

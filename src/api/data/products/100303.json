@@ -1,0 +1,52 @@
+{
+  "uid": 100303,
+  "name": "Channel Master Galvanized Telescoping Steel Mast 50ft.",
+  "description": "The Channel Master CM 1850 is a 50 ft. long, 18 gauges, high quality galvanized telescoping steel mast used for TV antenna mounting, as well as other antenna and specialty applications. The mast is weather resistant, strong and durable and comes with guy rings, mast clamps and platform pins making it ready to install. Channel Master recommends using guy wire for all antenna installations using masts over 10 ft.18-Gauge steel galvanized telescoping mastLength: 50 ft.Easy to set upQuality construction",
+  "attributes": [
+    {
+      "key": "Antenna Gain (dB)",
+      "value": "8"
+    },
+    {
+      "key": "- Length",
+      "value": "50 ft."
+    },
+    {
+      "key": "Electronics Features",
+      "value": "High definition compatible"
+    },
+    {
+      "key": "Electronics Included Components",
+      "value": "No additional items included"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Channel Master"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "128"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "3.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3.75"
+    },
+    {
+      "key": "Range (miles)",
+      "value": "0"
+    },
+    {
+      "key": "Signal Type",
+      "value": "AM,FM,UHF,VHF"
+    }
+  ],
+  "isDeleted": false
+}

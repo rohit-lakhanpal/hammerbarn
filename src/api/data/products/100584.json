@@ -1,0 +1,40 @@
+{
+  "uid": 100584,
+  "name": "Barebones Living Galvanized Steel Watering Can - Comfort Grip 1.5 gal.",
+  "description": "Our galvanized steel watering can features a riveted circular handle that provides a comfortable grip while carrying or pouring. The screw-on spout can be removed for a faster flow and makes cleaning a breeze. Oversized, riveted hoop handle makes using very easy.Screw-on spout can be removed for a faster flow and makes cleaning a breezeProvides a comfortable grip while carrying or pouringRiveted circular handleGalvanized steel1.5 gal.",
+  "attributes": [
+    {
+      "key": "Capacity (gallons)",
+      "value": "1.5"
+    },
+    {
+      "key": "Color Family",
+      "value": "Silver"
+    },
+    {
+      "key": "Material",
+      "value": "Galvanized Steel"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Barebones Living"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "17"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "11"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Spout Length (in.)",
+      "value": "17"
+    }
+  ],
+  "isDeleted": false
+}

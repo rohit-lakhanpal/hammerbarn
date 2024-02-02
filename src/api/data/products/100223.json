@@ -1,0 +1,40 @@
+{
+  "uid": 100223,
+  "name": "Ariens Snow Blower Maintenance Kit",
+  "description": "This Snow Blower Maintenance Kit for Ariens Compact and Sno-Tek models includes an assortment of items for performing routine maintenance on your compatible snow blower. Contains factory authorized parts. Regular maintenance will keep your snow blower performing when you need it.Includes 3 shear bolts and nuts specifically made for Ariens compact and Sno-Tek modelsIncludes a 5.25 oz. snow jet aerosol spray helps prevent snow and ice from sticking to the blower\u0027s metal housing, auger and impeller helping to prevent clogsIncludes 32 oz. bottle of Ariens 5W-30 engine oil specifically formulated for snow enginesIncludes 2 packets of fuel stabilizer which keeps gas fresh for up to a year and helps prevent carburetor varnish caused by ethanol fuelChange engine oil each season or after 25 hours of use",
+  "attributes": [
+    {
+      "key": "Fits brands",
+      "value": "Ariens and Sno-Tek"
+    },
+    {
+      "key": "Fits models",
+      "value": "Compact Sno-Thro\u0027s and Sno-Tek Snow Throwers"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Ariens"
+    },
+    {
+      "key": "Part Type",
+      "value": "Tune-Up Kit"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "6"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "10"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "6"
+    },
+    {
+      "key": "Used with equipment type",
+      "value": "Snow Blower"
+    }
+  ],
+  "isDeleted": false
+}

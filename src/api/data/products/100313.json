@@ -1,0 +1,44 @@
+{
+  "uid": 100313,
+  "name": "Linzer CraftFoam Brush - Synthetic foam brush for crafts and touch-ups",
+  "description": "The Economy 2 in. Foam Brush features a synthetic foam pad for maximum material absorption. It is a great brush for painting crafts and doing touch-up work. This brush has a wooden handle and can be used with various paints and stains.Synthetic-foam brush head can be used with paints and stains and holds ample materialGreat for craft projects, hobby paints and touch-up workNatural wood handle for comfort and lightweight2 in. brush widthNot for use with shellacs and lacquers",
+  "attributes": [
+    {
+      "key": "Applicator/Tool Type",
+      "value": "Foam Brush"
+    },
+    {
+      "key": "Brush head height (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Brush head material",
+      "value": "Synthetic"
+    },
+    {
+      "key": "Brush head width (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Handle Length (in.)",
+      "value": "4"
+    },
+    {
+      "key": "Head shape(s)",
+      "value": "Flat"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Linzer"
+    },
+    {
+      "key": "Paint Product Type",
+      "value": "Applicator/Tool"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": ".03"
+    }
+  ],
+  "isDeleted": false
+}

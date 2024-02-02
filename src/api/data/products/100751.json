@@ -1,0 +1,88 @@
+{
+  "uid": 100751,
+  "name": "\u0022Lithonia Lighting Wraparound Fluorescent Ceiling Fixture\u0022",
+  "description": "The hinged diffuser design of the Lithonia Lighting 4 ft. Wraparound Fluorescent Ceiling Fixtures offers easy maintenance and cleaning. These fixtures feature durable plastic construction and an instant-on ballast to help prevent flickering. This fixture uses 2 (32W) T8 Bulbs (not included).Plastic constructionWhite colorEnergy-efficient fluorescent fixtureHinged diffuser design offers easy maintenance and cleaningDiffuser has side prisms to help control brightness and bottom prisms to reduce lamp imagesInstant-on ballast eliminates flickering and hummingResidential electronic ballast does not interfere with other electronic equipmentUse for residential and light commercial applicationsUL listed",
+  "attributes": [
+    {
+      "key": "Accessory Type",
+      "value": "Wrap"
+    },
+    {
+      "key": "Actual Color Temperature (K)",
+      "value": "4100"
+    },
+    {
+      "key": "Bulb Type Included",
+      "value": "No Bulbs Included"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,CSA Listed"
+    },
+    {
+      "key": "Color Rendering Index",
+      "value": "0"
+    },
+    {
+      "key": "Commercial Light Type",
+      "value": "Wraparound"
+    },
+    {
+      "key": "Dimmable",
+      "value": "No"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Fixture Color/Finish Family",
+      "value": "White"
+    },
+    {
+      "key": "Hardware Included",
+      "value": "Yes"
+    },
+    {
+      "key": "Length/circumference (in.)",
+      "value": "48"
+    },
+    {
+      "key": "Light Bulb Base Code",
+      "value": "Bi-Pin"
+    },
+    {
+      "key": "Material",
+      "value": "Metal"
+    },
+    {
+      "key": "Maximum Wattage (watts)",
+      "value": "0"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Lithonia Lighting"
+    },
+    {
+      "key": "Number of Bulbs Required",
+      "value": "2"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2.875"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "48"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "3 lb"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8.33"
+    }
+  ],
+  "isDeleted": false
+}

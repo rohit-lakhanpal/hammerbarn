@@ -1,0 +1,40 @@
+{
+  "uid": 100226,
+  "name": "Husky Airflow Brass Ball Valve for 1/4 in. Piping",
+  "description": "The Husky 1/4 in. Full Port Ball Valve helps you service a system without disrupting other users or draining air from the tank. The durable brass body features a high-capacity airflow design that reduces pressure drop for better tool performance.One 1/4 in. NPT male and one 1/4 in. NPT female spigot fittingFor use with 1/4 in. I.D. piping or hoseHelps you service a system without disrupting other users or draining air from the tankCan be used as a moisture drainBrass body with steel ball and Teflon sealsHigh-capacity airflow design reduces pressure drop for better tool performanceHinges have a slight offset leaf for clearanceCovered quarter-turn handle quickly turns air on or offFasteners included",
+  "attributes": [
+    {
+      "key": "Accessory Type",
+      "value": "Other"
+    },
+    {
+      "key": "Maximum Pressure (psi)",
+      "value": "125"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Husky"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.75"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "0.18"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Test Equipment Part/Accessory"
+    }
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 100018,
+  "name": "Bloem GentleShower Plastic Sprinkler Head",
+  "description": "This classic plastic sprinkler head that fits all JW82 2 gal. watering cans. Creating a gentle shower for your flowers. Make of plastic.Size: 3.25 in. diameter x 2.75 in. tallThreaded sprinkler head easily attachesColor: whiteMade in the USA",
+  "attributes": [
+    {
+      "key": "- Size",
+      "value": "3.25 in. diameter x 2.75 in. tall"
+    },
+    {
+      "key": "- Color",
+      "value": "white"
+    },
+    {
+      "key": "Capacity (gallons)",
+      "value": "2"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Bloem"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "2.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "5.25"
+    },
+    {
+      "key": "Spout Length (in.)",
+      "value": "2.75"
+    }
+  ],
+  "isDeleted": false
+}

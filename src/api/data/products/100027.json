@@ -1,0 +1,40 @@
+{
+  "uid": 100027,
+  "name": "UltraTouch Radiant Barrier Insulation Roll",
+  "description": "The UltraTouch 48 in. x 24 ft. Radiant Barrier is easy to use and install and is made from recycled natural fibers. The radiant barrier provides excellent thermal and acoustical insulation, reflecting up to 97% of radiant energy for excellent savings on heating and cooling costs.Reflects up to 97% of radiant energy, reducing heating and cooling costsEasy to use and installRecycled natural-fiber padding is durableBlanket-type, foil-faced insulation is lightweight and versatileExcellent acoustical performanceClass-A or Class-1 fire rating",
+  "attributes": [
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "Yes"
+    },
+    {
+      "key": "Friction Fit",
+      "value": "No"
+    },
+    {
+      "key": "Insulation Type",
+      "value": "Radiant Barrier"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "UltraTouch"
+    },
+    {
+      "key": "Product Length (ft.)",
+      "value": "24 ft"
+    },
+    {
+      "key": "Product Thickness (in.)",
+      "value": ".375 in"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "16"
+    },
+    {
+      "key": "Sheet or Roll",
+      "value": "Roll"
+    }
+  ],
+  "isDeleted": false
+}

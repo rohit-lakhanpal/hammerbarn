@@ -1,0 +1,48 @@
+{
+  "uid": 100608,
+  "name": "Winegard Steel Antenna Tripod Mount - 38 in. OD",
+  "description": "The DS 3000 is perfectly designed for outdoor antennas such as on the side of a house or roof. The mount foot can be used on either end of pipe for excellent mounting. The DS 3000 is built with pipe galvanized steel, 38 in. long, has a wall thickness 0.060 in., 1.66 in. OD and E coated for maximum protection.3 ft. heavy duty galvanized steel tripod mount for off air antennaTripods and masts over 10 ft. should be guy wiredPitch pads are recommended but not includedDesigned for outdoor antennasMountable on side of house or roofMount foot can be used on either end of pipe for best mounting39 in. J pipe mount",
+  "attributes": [
+    {
+      "key": "Antenna Gain (dB)",
+      "value": "0"
+    },
+    {
+      "key": "Electronics Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Electronics Included Components",
+      "value": "No additional items included"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Winegard"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "41.75"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "5.75"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "6"
+    },
+    {
+      "key": "Range (miles)",
+      "value": "0"
+    },
+    {
+      "key": "Signal Type",
+      "value": "FM,UHF,VHF"
+    }
+  ],
+  "isDeleted": false
+}

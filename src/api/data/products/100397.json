@@ -1,0 +1,84 @@
+{
+  "uid": 100397,
+  "name": "\u0022MD SteelCraft 22-Gauge Weldable Sheet Metal\u0022",
+  "description": "The MD Building Products provides a full assortment of aluminum shapes and sheets for any project you may encounter. Weldable steel sheet metal. Available in a variety of sizes and thickness. Great for auto and RV repairs, industrial fabrication and repairs and many other home and shop projects where a wieldable steel is desired. Should be painted to prevent rusting.Great for crafts and hobbiesCan be used to create countertops, workbench tops and pet-house roofsMade of 22-Gauge steelCan be weldedResists rustDurable and strongEasy to form and cut",
+  "attributes": [
+    {
+      "key": "Corrosion Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Fastener Type",
+      "value": "Metal Stock"
+    },
+    {
+      "key": "Finish Family",
+      "value": "Unfinished"
+    },
+    {
+      "key": "Gauge",
+      "value": "22"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Measurement Standard",
+      "value": "USS"
+    },
+    {
+      "key": "Metal Stock Type",
+      "value": "Sheet Metal"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "MD Building Products"
+    },
+    {
+      "key": "Package Quantity",
+      "value": "1"
+    },
+    {
+      "key": "Perforated",
+      "value": "No"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0.03"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "24"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "24 in"
+    },
+    {
+      "key": "Product Thickness (in.)",
+      "value": "0.03 in"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "2.5 lb"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "12 in"
+    },
+    {
+      "key": "Weldable",
+      "value": "Yes"
+    },
+    {
+      "key": "Width (in) x Length (in)",
+      "value": "12in x 24 in"
+    }
+  ],
+  "isDeleted": false
+}

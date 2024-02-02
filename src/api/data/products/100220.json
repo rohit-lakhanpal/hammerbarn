@@ -1,0 +1,36 @@
+{
+  "uid": 100220,
+  "name": "\u0022Unbranded Heavy-Duty Tree Stand\u0022",
+  "description": "This heavy-duty, welded tree stand easily supports trees up to 14 ft. tall. For maximum stability, the stand features 4 eye bolts with end caps and a 39 in. base. Manufactured with top quality components, this piece is sure to keep larger trees safely and securely supported.Supports trees up to 14 ft. tallSturdy 39 in. welded baseFor trees with a 8.25 in. trunk diameter (with T-nuts removed)4 eye bolts with end caps to provide maximum stability and support",
+  "attributes": [
+    {
+      "key": "Holiday Decor Product Type",
+      "value": "Live Tree Stand"
+    },
+    {
+      "key": "Material",
+      "value": "Steel"
+    },
+    {
+      "key": "Maximum tree height (ft.)",
+      "value": "14"
+    },
+    {
+      "key": "Maximum trunk diameter (in.)",
+      "value": "8.5"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Unbranded"
+    },
+    {
+      "key": "Reservoir capacity (gallons)",
+      "value": "2"
+    },
+    {
+      "key": "Storage/ Accessory Type",
+      "value": "Fresh Tree Stand"
+    }
+  ],
+  "isDeleted": false
+}

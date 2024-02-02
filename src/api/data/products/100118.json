@@ -1,0 +1,96 @@
+{
+  "uid": 100118,
+  "name": "Jameson Pruner Pro Package",
+  "description": "Landscape package contains tools to handle a variety of pruning jobs. Using a pole adapter, the pruner snaps into the hollow core fiberglass poles for a secure connection. Ferrules allow any combination of poles with the pruner to achieve different lengths, depending on the job. JA-14 Pruner has 1.25 in. fixed pulley pruner with forged steel components for added strength.Assembled Dimension: 7.5 in. W x 7.25 in. D x 74 in. HPruner includes rope and pole adapter to snap into Jameson poleThree 6 ft. Fiberglass extension poles - Two 6 ft. FG Hollow Extension Poles and One 6 ft. FG Base PolePoles have male and female ferrules for attaching pruner or additional poleHollow core fiberglass poles with 0.125 in. wall thickness",
+  "attributes": [
+    {
+      "key": "Blade cutting type",
+      "value": "Bypass"
+    },
+    {
+      "key": "Blade Length (In.)",
+      "value": "1.25 in"
+    },
+    {
+      "key": "Blade Material",
+      "value": "Steel"
+    },
+    {
+      "key": "- Assembled Dimension",
+      "value": "7.5 in. W x 7.25 in. D x 74 in. H"
+    },
+    {
+      "key": "Coated Blades",
+      "value": "No"
+    },
+    {
+      "key": "Corrosion Resistant",
+      "value": "No"
+    },
+    {
+      "key": "Forged Blade",
+      "value": "No"
+    },
+    {
+      "key": "Garden Center Tool Type",
+      "value": "Tree Pruners/Shears"
+    },
+    {
+      "key": "Gear Driven",
+      "value": "No"
+    },
+    {
+      "key": "Handle Length (in.)",
+      "value": "72"
+    },
+    {
+      "key": "Handle Material",
+      "value": "Fiberglass"
+    },
+    {
+      "key": "Maximum Cutting Thickness (in.)",
+      "value": "1.25"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Jameson"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "7.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "74"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "10.8"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "7.5"
+    },
+    {
+      "key": "Rotating Head",
+      "value": "No"
+    },
+    {
+      "key": "Sap Groove",
+      "value": "No"
+    },
+    {
+      "key": "Saw Attachment",
+      "value": "No"
+    },
+    {
+      "key": "Telescoping Handle",
+      "value": "No"
+    },
+    {
+      "key": "Tool Type",
+      "value": "Other Tool"
+    }
+  ],
+  "isDeleted": false
+}

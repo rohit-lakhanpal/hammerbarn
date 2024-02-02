@@ -1,0 +1,84 @@
+{
+  "uid": 100004,
+  "name": "Grape Solar 265-Watt Polycrystalline PV Solar Panel Bundle",
+  "description": "The Grape Solar 265-Watt Polycrystalline PV Solar Panel bonus pack bundles 4 Grape Solar 265-Watt solar panels for extra savings. The Grape Solar 265-Watt Polycrystalline PV Solar Panel uses high efficiency solar cells (approximately 19%) made from quality silicon material for high module conversion efficiency, long term output stability, and reliability. Virtually maintenance free. High transmittance, low iron tempered glass for durability and enhanced impact resistance.Positive power tolerance (0 to \u002B5-Watt)Anti-reflective and anti-soiling surface reduces power loss from dirt and dustOutstanding performance in low-light irradiances environmentsCertified to withstand high wind and snow loads100% electroluminescence inspection ensures modules are defect freePositive and negative leads quipped with MC4 connectors",
+  "attributes": [
+    {
+      "key": "Amperage (amps)",
+      "value": "8.56"
+    },
+    {
+      "key": "Charge controller included",
+      "value": "No"
+    },
+    {
+      "key": "Electrical Product Type",
+      "value": "Solar Power Panel"
+    },
+    {
+      "key": "Inverter included",
+      "value": "No"
+    },
+    {
+      "key": "Low voltage audible alarm",
+      "value": "No"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Grape Solar"
+    },
+    {
+      "key": "Mounting frame included",
+      "value": "No"
+    },
+    {
+      "key": "Number of Panels",
+      "value": "4"
+    },
+    {
+      "key": "Panel Height (in.)",
+      "value": "1.57"
+    },
+    {
+      "key": "Panel length (in.)",
+      "value": "64.96"
+    },
+    {
+      "key": "Panel weight (lb.)",
+      "value": "40"
+    },
+    {
+      "key": "Panel Width (in.)",
+      "value": "39"
+    },
+    {
+      "key": "Portable",
+      "value": "No"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "64.96"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1.57"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "39"
+    },
+    {
+      "key": "Solar panel type",
+      "value": "Polycrystalline silicon panel"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "30.96"
+    },
+    {
+      "key": "Wattage (watts)",
+      "value": "265"
+    }
+  ],
+  "isDeleted": false
+}

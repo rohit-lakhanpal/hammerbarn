@@ -1,0 +1,112 @@
+{
+  "uid": 100627,
+  "name": "APC SurgeArrest 11-Outlet Power Strip with Phone/Data Protection",
+  "description": "Most other surge suppressors continue to let power through even after their circuits have been damaged, leaving your equipment exposed to future surges. APC\u0027s SurgeArrest fail safe, which means that once the circuit of an APC SurgeArrest has been compromised the unit disconnects equipment from the power supply ensuring that no damaging surges reach your equipment.Allows use of two pieces of equipment at once, such as a modem and phoneEasy recovery from overloads; no need to replace a fuseProtection of data lines (Ethernet, coaxial and phone lines) ensures complete protection of your equipment from surges and it is very important to protect your equipment from back door surges traveling through data lines, as they can be as damaging to your equipment as surges traveling over power linesSurgeArrest will warn you if its circuitry has been damaged by heavy strike or power line surge and it is unable to provide 100% protection and if still under warranty, APC will then replace your damaged SurgeArrest free of chargeConnect bulky transformer block plugs without covering up other outletsAdjustable cable management keeps cords and cables neat and organizedLightning and surge protection: to prevent damage to your equipment from power surges and spikesA 180_ rotating cord with strain relief offers flexibility in positioning the SurgeArrest, and in routing the power cordHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "- Lightning and surge protection",
+      "value": "to prevent damage to your equipment from power surges and spikes"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "1-UL Listed,CSA Listed"
+    },
+    {
+      "key": "Color Family",
+      "value": "Black"
+    },
+    {
+      "key": "Color/Finish",
+      "value": "IGNORE-No existing value"
+    },
+    {
+      "key": "Connection type",
+      "value": "Stand Alone"
+    },
+    {
+      "key": "Cord Included",
+      "value": "Yes"
+    },
+    {
+      "key": "Cord Length (ft.)",
+      "value": "8"
+    },
+    {
+      "key": "Electrical Product Type",
+      "value": "Secondary Surge Protection"
+    },
+    {
+      "key": "Energy Saving",
+      "value": "No"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Joule Rating (joules)",
+      "value": "3020"
+    },
+    {
+      "key": "Joules",
+      "value": "3020"
+    },
+    {
+      "key": "Maximum Current",
+      "value": "15"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "APC"
+    },
+    {
+      "key": "Number of Outlets",
+      "value": "11"
+    },
+    {
+      "key": "Number of USB Ports",
+      "value": "0"
+    },
+    {
+      "key": "On Indicator Light",
+      "value": "Yes"
+    },
+    {
+      "key": "Phone/Data Protection",
+      "value": "Yes"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "11.89"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "1.57"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "4.7"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "2.33"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": "37.3"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "4.7"
+    },
+    {
+      "key": "Resettable circuit breaker",
+      "value": "Yes"
+    },
+    {
+      "key": "Video Protection",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

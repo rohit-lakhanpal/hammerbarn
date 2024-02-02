@@ -1,0 +1,168 @@
+{
+  "uid": 100694,
+  "name": "LG Portable Cool Breeze 10000 Air Conditioner",
+  "description": "Enjoy portable cooling with the LG Electronics 10,000 BTU Portable Air Conditioner. The 10,000 BTUs of cooling power keep a room up to 300 sq. ft. cool and comfortable and the 2-speed cooling and fan and 2-way air direction help spread the air evenly throughout the room. Digital controls offer precise temperature adjustments, and the remote control lets you control the air conditioner from across the room. Unit must stay upright for 24 hours before use. Unit must be vented to the outside (use included window installation kit and follow detailed installation instructions in the Owner\u0027s Manual. Do not use extension cords.Estimated cooling area (300 sq. ft. /15 ft. x 20 ft. room)10,000 BTU cooling ensures your comfortPortable unit comes with one (1) hose installation kit. Get comfortable with the greatest of ease with casters to allow easy movement to the room that needs cooling so you can comfortably enjoy your room2-speed cooling and fan lets you select the right setting to suit your needs while affording a range of adjustment to deliver comfort2-way Air Deflection: Air can be directed up or down as neededDigital LED Electronic Touch Controls: Control the temperature of your room with just a push of a button24 hour On/Off Timer lets you create a cooling schedule without wasting electricity; an energy efficient programmable timer that can turn on your air conditioner before you arrive home or turn off after you leaveRemote control that is stylish and easy to use which allows you to cool down from across the roomWashable and Reusable air filter saves money on replacementsAutomatically restarts after a power failure; there are storms, high winds and extreme heat that can lead to power outages; keep yourself covered with AutoRestart, which automatically turns the unit back on when power is restoredRemoves up to 2.6 Pint of moisture from the air in a hour to control humidityProduct (WxHxD) 17.03 in. x 31.28 in. x 13 in.Voltage / 60 Hz: 115Unit must stay upright for 24 hours before use and must be vented to the outside (use included window installation kit) and do not use extension cordsUnit must be vented to the outside (use included window installation kit and follow detailed installation instructions in the Owner\u0027s Manual)Home Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "A/C Cooling Rate (BTU/hr)",
+      "value": "10000"
+    },
+    {
+      "key": "A/C Coverage Area (sq. ft.)",
+      "value": "300"
+    },
+    {
+      "key": "Air Conditioner Product Type",
+      "value": "Portable Unit"
+    },
+    {
+      "key": "Air direction/circulation",
+      "value": "2-way"
+    },
+    {
+      "key": "Amperage (amps)",
+      "value": "9.6"
+    },
+    {
+      "key": "Automatic shutoff",
+      "value": "No"
+    },
+    {
+      "key": "BTU Cooling Rating",
+      "value": "10000"
+    },
+    {
+      "key": "- 2-way Air Deflection",
+      "value": "Air can be directed up or down as needed"
+    },
+    {
+      "key": "- Digital LED Electronic Touch Controls",
+      "value": "Control the temperature of your room with just a push of a button"
+    },
+    {
+      "key": "- Voltage / 60 Hz",
+      "value": "115"
+    },
+    {
+      "key": "Casters",
+      "value": "Yes"
+    },
+    {
+      "key": "Certifications and Listings",
+      "value": "ETL Listed"
+    },
+    {
+      "key": "Color",
+      "value": "White"
+    },
+    {
+      "key": "Color Family",
+      "value": "White"
+    },
+    {
+      "key": "Controls",
+      "value": "Digital"
+    },
+    {
+      "key": "Cord Length (ft.)",
+      "value": "6"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "300"
+    },
+    {
+      "key": "Decibel Rating",
+      "value": "55 dBA"
+    },
+    {
+      "key": "Decibel Rating (Indoor)",
+      "value": "55 dBA"
+    },
+    {
+      "key": "Drain hose connection",
+      "value": "Yes"
+    },
+    {
+      "key": "Energy Efficiency Ratio (EER)",
+      "value": "9.2"
+    },
+    {
+      "key": "Filter light reminder",
+      "value": "No"
+    },
+    {
+      "key": "Filter Type",
+      "value": "Washable"
+    },
+    {
+      "key": "Heater included",
+      "value": "No"
+    },
+    {
+      "key": "Hose Exhaust",
+      "value": "Single"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "LG Electronics"
+    },
+    {
+      "key": "Moisture removal capacity (pints/day)",
+      "value": "62.4"
+    },
+    {
+      "key": "Number of cool settings",
+      "value": "2"
+    },
+    {
+      "key": "Number of Fan Speeds",
+      "value": "2"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "13"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "31.28"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "52.3"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "17.03"
+    },
+    {
+      "key": "Remote Control",
+      "value": "Yes"
+    },
+    {
+      "key": "Self-diagnostic tools",
+      "value": "No"
+    },
+    {
+      "key": "Sleep setting",
+      "value": "No"
+    },
+    {
+      "key": "Timer",
+      "value": "Yes"
+    },
+    {
+      "key": "Vent hose configuration",
+      "value": "Single"
+    },
+    {
+      "key": "Voltage (volts)",
+      "value": "115"
+    },
+    {
+      "key": "Window venting kit included",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

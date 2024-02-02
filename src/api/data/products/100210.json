@@ -1,0 +1,88 @@
+{
+  "uid": 100210,
+  "name": "PC Products FlexEpoxy 50 - Self Mixing Cartridge Epoxy",
+  "description": "PC-Clear Liquid Epoxy in a self mixing cartridge. Mixes through nozzle. Remains clear after cure. Requires 50ml dispensing gun.Clear epoxy with added flexibilityWaterproof after curedEasy to use self mixing cartridge for use with 50ml Dispensing Guns2450 psi tensile strength",
+  "attributes": [
+    {
+      "key": "Adhesion level",
+      "value": "High"
+    },
+    {
+      "key": "Adhesive Product Type",
+      "value": "Glue/Epoxy"
+    },
+    {
+      "key": "Curing time (hours)",
+      "value": "1"
+    },
+    {
+      "key": "Dries clear",
+      "value": "Yes"
+    },
+    {
+      "key": "Drillable",
+      "value": "Yes"
+    },
+    {
+      "key": "Flammable",
+      "value": "No"
+    },
+    {
+      "key": "Glue/epoxy type",
+      "value": "Epoxy/super glue"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "PC Products"
+    },
+    {
+      "key": "Moisture Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "1.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "8.75"
+    },
+    {
+      "key": "Product Weight (oz.)",
+      "value": "2.2 oz"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "3.75"
+    },
+    {
+      "key": "Recommended surfaces",
+      "value": "Multi-Surface"
+    },
+    {
+      "key": "Sandable",
+      "value": "Yes"
+    },
+    {
+      "key": "Set Time (Min.)",
+      "value": "4"
+    },
+    {
+      "key": "Solvent resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Stainable/Paintable",
+      "value": "Paintable"
+    },
+    {
+      "key": "UV/sunlight resistant",
+      "value": "Yes"
+    }
+  ],
+  "isDeleted": false
+}

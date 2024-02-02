@@ -1,0 +1,44 @@
+{
+  "uid": 100281,
+  "name": "MD Building Products High-Density Water Heater Insulation Blanket",
+  "description": "MD Building Products provides a full assortment of weather-stripping and high-density foam tapes for any weatherproofing needs. Water heater insulation blankets are designed for gas, oil or electric heaters. White vinyl backed fiberglass blanket. Includes adhesive tape for easy installation. Easy to install with scissors, measuring tape and pencil. Fits up to 60 gal. R-11 insulating value.High-density foam water heater blanket has been designed for gas, oil or electric heatersProduct has been designed for the DIY person and can be installed with scissors, measuring tape and pencilWater heater blanket is a white vinyl backed fiberglass blanketProduct has an R-11 insulating valueWater heater blanket includes adhesive tape for easy installation",
+  "attributes": [
+    {
+      "key": "Compatibility (Size of Tank in Gallons)",
+      "value": "60"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Insulation Type",
+      "value": "Accessory"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "MD Building Products"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "8.5"
+    },
+    {
+      "key": "Product Thickness (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "4.06"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "8.5"
+    }
+  ],
+  "isDeleted": false
+}

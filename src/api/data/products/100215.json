@@ -1,0 +1,36 @@
+{
+  "uid": 100215,
+  "name": "Suncast Pet Shelter",
+  "description": "Keep your pet warm and dry with the Suncast Dog House. Your pet will be enjoying their dog house minutes after you get it home with our easy, snap together assembly. The dog house is constructed of durable resin that will not rust, rot or dent. Removable lid allows for easy access to interior for cleaning.Easy, tool free assemblyDurable resin constructionVents provide air circulationRemovable roof for easy cleaningCrowned floor with channel around edge to capture fluids and keep pet dryCan be staked to groundVinyl doors included",
+  "attributes": [
+    {
+      "key": "Material",
+      "value": "Plastic"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Unbranded"
+    },
+    {
+      "key": "Pet Size",
+      "value": "Medium"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "35"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "29.5"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "20"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "27"
+    }
+  ],
+  "isDeleted": false
+}

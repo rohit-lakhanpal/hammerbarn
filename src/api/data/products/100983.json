@@ -1,0 +1,60 @@
+{
+  "uid": 100983,
+  "name": "Avanti Pro Diamond 7 in. Circular Saw Blade - Multi-Purpose",
+  "description": "Avanti Pro blades are made of durable diamond segments. Segmented rim for faster cuts on masonry materials. Durable steel core construction.For use with 7 in. grindersIdeal for cutting pavers, block, brick and concreteGreat for both dry and wet cutting8,700 RPM maximum",
+  "attributes": [
+    {
+      "key": "Blade Diameter",
+      "value": "7 in"
+    },
+    {
+      "key": "Color Family",
+      "value": "Silver"
+    },
+    {
+      "key": "Material Cut",
+      "value": "Multi-Purpose"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Avanti Pro"
+    },
+    {
+      "key": "Number in Package",
+      "value": "1"
+    },
+    {
+      "key": "Power Tool Accessory Type",
+      "value": "Circular Saw Blade"
+    },
+    {
+      "key": "Power Tool Product Type",
+      "value": "Power Tool Accessory"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "0.092"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "7"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "7"
+    },
+    {
+      "key": "Rim Type",
+      "value": "Segmented"
+    },
+    {
+      "key": "Saw Blade Material",
+      "value": "Diamond"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    }
+  ],
+  "isDeleted": false
+}

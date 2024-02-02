@@ -1,0 +1,100 @@
+{
+  "uid": 100602,
+  "name": "Ingersoll Rand 1/2 in. Drive Impactool - Twin Hammer",
+  "description": "1/2 in. Drive - Maximize your productivity with this powerful Impactool. You will be amazed by the 500 ft.-lb. of maximum reverse torque this tool delivers. Its everything you need to conquer the task at hand.Exclusive twin hammer impact mechanismVariable sapeed triggerErgonomic gripPowerful 6-vane motorEasy to use forward/ reverse power regulatorHome Depot Protection Plan:",
+  "attributes": [
+    {
+      "key": "Accessories Included",
+      "value": "No"
+    },
+    {
+      "key": "Air consumption at recommended operating pressure (CFM)",
+      "value": "90"
+    },
+    {
+      "key": "Air Inlet Size",
+      "value": "1/4 in"
+    },
+    {
+      "key": "Air Tool Type",
+      "value": "Impact Wrench"
+    },
+    {
+      "key": "Case Included",
+      "value": "No"
+    },
+    {
+      "key": "Compressor/Air Tool Features",
+      "value": "No Additional Features"
+    },
+    {
+      "key": "Drive Size (in.)",
+      "value": "1/2"
+    },
+    {
+      "key": "Forward/Reverse Rocker Switch",
+      "value": "Yes"
+    },
+    {
+      "key": "Housing Material",
+      "value": "Aluminum"
+    },
+    {
+      "key": "Impacts Per Minute",
+      "value": "1200"
+    },
+    {
+      "key": "Included",
+      "value": "No additional components or accessories are included"
+    },
+    {
+      "key": "Maximum Speed (rpm)",
+      "value": "8000"
+    },
+    {
+      "key": "Maximum torque (ft.-lb.)",
+      "value": "500"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Ingersoll Rand"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "9.25"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "3"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "9.25"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "9.62"
+    },
+    {
+      "key": "Project Type",
+      "value": "Bolting"
+    },
+    {
+      "key": "Recommended operating pressure (psi)",
+      "value": "90"
+    },
+    {
+      "key": "Tool weight (lb.)",
+      "value": "6"
+    },
+    {
+      "key": "Tools Product Type",
+      "value": "Power Tool"
+    },
+    {
+      "key": "Variable power settings",
+      "value": "5"
+    }
+  ],
+  "isDeleted": false
+}

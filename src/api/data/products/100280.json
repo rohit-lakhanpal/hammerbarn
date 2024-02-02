@@ -1,0 +1,132 @@
+{
+  "uid": 100280,
+  "name": "Feit Electric Red Twist CFL Decorative Light Bulb",
+  "description": "The Feit Electric 13-Watt (60W) Red Twist CFL Light Bulb casts a red light that\u0027s perfect for post lights, porch lights and parties. Ideal for both indoor and outdoor use, the bulb features an instant start-up for convenient use. This bulb can last for up to 8,000 hours.Brightness: 25 lumensEstimated yearly energy cost: $1.57 (based on 3 hours/day, 11 cent/kWh, costs depend on rates and use)Life: 7.3 years (based on 3 hours/day)Light appearance: redEnergy used: 13-Watt (equivalent to 60-Watt standard incandescent light bulb)Red color makes the bulb ideal for use in post lights and porch lightsGreat for parties",
+  "attributes": [
+    {
+      "key": "3-Way",
+      "value": "No"
+    },
+    {
+      "key": "Actual Color Temperature (K)",
+      "value": "0"
+    },
+    {
+      "key": "Average Life (hours)",
+      "value": "8000"
+    },
+    {
+      "key": "Bulb Color",
+      "value": "Red"
+    },
+    {
+      "key": "Bulb Diameter (In.)",
+      "value": "1.86"
+    },
+    {
+      "key": "Bulb Shape",
+      "value": "Spiral"
+    },
+    {
+      "key": "Bulb Type",
+      "value": "Decorative"
+    },
+    {
+      "key": "- Brightness",
+      "value": "25 lumens"
+    },
+    {
+      "key": "- Estimated yearly energy cost",
+      "value": "$1.57 (based on 3 hours/day, 11 cent/kWh, costs depend on rates and use)"
+    },
+    {
+      "key": "- Life",
+      "value": "7.3 years (based on 3 hours/day)"
+    },
+    {
+      "key": "- Light appearance",
+      "value": "red"
+    },
+    {
+      "key": "- Energy used",
+      "value": "13-Watt (equivalent to 60-Watt standard incandescent light bulb)"
+    },
+    {
+      "key": "Color Rendering Index",
+      "value": "90"
+    },
+    {
+      "key": "ENERGY STAR Certified",
+      "value": "No"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "key": "Light Bulb Base Code",
+      "value": "Medium"
+    },
+    {
+      "key": "Light Bulb Base Type",
+      "value": "Medium"
+    },
+    {
+      "key": "Light Bulb Features",
+      "value": "No additional features"
+    },
+    {
+      "key": "Light Bulb Shape Code",
+      "value": "SPIRAL"
+    },
+    {
+      "key": "Light Color",
+      "value": "Other Colors"
+    },
+    {
+      "key": "Light Output (lumens)",
+      "value": "25"
+    },
+    {
+      "key": "Lighting Technology",
+      "value": "CFL"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Feit Electric"
+    },
+    {
+      "key": "Number in Package",
+      "value": "1"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "2"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.3"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "1.86"
+    },
+    {
+      "key": "Shatter Resistant",
+      "value": "No"
+    },
+    {
+      "key": "Specialty Bulb Type",
+      "value": "Colored Bulb"
+    },
+    {
+      "key": "Watt Equivalence",
+      "value": "60"
+    },
+    {
+      "key": "Wattage (watts)",
+      "value": "13"
+    }
+  ],
+  "isDeleted": false
+}

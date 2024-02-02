@@ -1,0 +1,52 @@
+{
+  "uid": 100453,
+  "name": "Henry ClearSeal High-Performance Concrete Sealer",
+  "description": "A high-performance, high solids concrete sealer that\u0027s easy to apply, quick drying and nonflammable. UV stable and durable and abrasion resistant. East to apply and is quick drying.Seals and protects all uncoated cementitious surfacesUSDA/FDA compliant can be applied for interior or exterior useClear broom coverage is 200 to 300 sq. ft. per gal.Clear finish allows for the bright new or existing concrete surface to be clearly exposed",
+  "attributes": [
+    {
+      "key": "Color Family",
+      "value": "Clear"
+    },
+    {
+      "key": "Container Size (gallons)",
+      "value": "1"
+    },
+    {
+      "key": "Coverage Area (sq. ft.)",
+      "value": "250"
+    },
+    {
+      "key": "Drying Time (hours)",
+      "value": "2"
+    },
+    {
+      "key": "Interior/Exterior",
+      "value": "Exterior"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Henry"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "6.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "7.5"
+    },
+    {
+      "key": "Product Type",
+      "value": "Sealant"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "10"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "6.5"
+    }
+  ],
+  "isDeleted": false
+}

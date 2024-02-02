@@ -1,0 +1,80 @@
+{
+  "uid": 100836,
+  "name": "Webstone Uni-Flange Brass Ball Valve Kit",
+  "description": "These valves have revolutionized the installation of circulator pumps. Original isolator uni-flange ball valve has evolved into the largest flanged ball valve program in the industry today. These ball valves fit virtually every circulator pump.Heavy duty forged brass constructionUnique uni-body designAllows virtually no air into system upon pump replacementBlowout proof stem",
+  "attributes": [
+    {
+      "key": "Accessory type",
+      "value": "Boiler"
+    },
+    {
+      "key": "Compatible Pipe Material",
+      "value": "Brass"
+    },
+    {
+      "key": "Connection",
+      "value": "Male Pipe Thread"
+    },
+    {
+      "key": "Heating Product Type",
+      "value": "Accessory"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Indoor"
+    },
+    {
+      "key": "Material",
+      "value": "Brass"
+    },
+    {
+      "key": "Maximum Pressure (psi)",
+      "value": "294"
+    },
+    {
+      "key": "Maximum Working Temperature (F)",
+      "value": "366"
+    },
+    {
+      "key": "MFG Brand Name",
+      "value": "Webstone"
+    },
+    {
+      "key": "Product Depth (in.)",
+      "value": "3.5"
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": "4.25"
+    },
+    {
+      "key": "Product Length (in.)",
+      "value": "0"
+    },
+    {
+      "key": "Product Weight (lb.)",
+      "value": "1"
+    },
+    {
+      "key": "Product Width (in.)",
+      "value": "2.625"
+    },
+    {
+      "key": "Rating",
+      "value": "Water"
+    },
+    {
+      "key": "Valve Inlet Diameter (in.)",
+      "value": ".5"
+    },
+    {
+      "key": "Valve Outlet Diameter (in.)",
+      "value": ".75"
+    },
+    {
+      "key": "Valve Use",
+      "value": "Water"
+    }
+  ],
+  "isDeleted": false
+}
