@@ -1,0 +1,83 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Hammerbarn API
+  description: Provides a comprehensive listing of products available for sale, including detailed product information and attributes
+host: localhost:3000
+basePath: /
+schemes:
+  - https
+consumes: []
+produces:
+  - application/json
+definitions: {}
+parameters: {}
+responses: {}
+securityDefinitions: {}
+security: []
+tags: []
+x-ms-openai-manifest:
+  humanName: Hammerbarn
+  modelDescription: >-
+    Plugin for accessing a wide range of products for sale. Use it whenever a user asks about
+    product listings available in the retail market. This plugin can be used to
+    search for products by name, description, or by specific attributes.
+  contactEmail: 'contact@retail.hammerbarn.com'
+  legalUrl: 'https://hammerbarn.com/legal/'
+paths:
+  /get-listings:
+    get:
+      summary: Get a list of products matching the specified criteria
+      description: >-
+        Returns a list of products, optionally filtered by providing a description of your needs.
+      operationId: GetProductListings
+      parameters:
+        - name: description
+          in: query
+          type: string
+          required: true
+          description: A brief description of the product you are after
+          x-ms-summary: Product Description
+          x-ms-visibility: important
+      responses:
+        default:
+          description: List of products matching the specified criteria
+          schema:
+            type: array
+            items:
+              type: object
+              properties:
+                uid:
+                  type: string
+                  description: Unique identifier of the product
+                  x-ms-visibility: important
+                name:
+                  type: string
+                  description: Name of the product
+                  x-ms-visibility: important
+                description:
+                  type: string
+                  description: A detailed description of the product
+                  x-ms-visibility: important
+                attributes:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      key:
+                        type: string
+                        description: Attribute name or key
+                      value:
+                        type: string
+                        description: Attribute value
+                  description: An array of key-value pairs representing product attributes
+      x-ms-openai-data:
+        openai-enabled: true
+        operations:
+          - operationId: GetProductListings
+            x-ms-require-user-confirmation: false
+            summary: Get a list of products matching the specified criteria
+            description: >-
+              Returns a list of products, optionally filtered by providing the product name,
+              description, or an array of key-value attributes as query parameters.
+      x-ms-visibility: important

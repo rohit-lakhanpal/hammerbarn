@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "hammerbarn",
+  "description_for_model": "Plugin for accessing a wide range of products for sale. Use it whenever a user asks about product listings available in the retail market. This plugin can be used to search for products by name, description, or by specific attributes.",
+  "name_for_human": "Hammerbarn",
+  "description_for_human": "Access a comprehensive listing of products available for sale, including detailed product information and attributes",
+  "api": {
+    "type": "openapi",
+    "url": "https://localhost:3000/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "http://localhost:3000/images/logo.png",
+  "contact_email": "contact@retail.hammerbarn.com",
+  "legal_info_url": "https://hammerbarn.com/legal/"
+}
