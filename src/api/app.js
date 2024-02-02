@@ -58,4 +58,20 @@ try {
     console.error(error.message);
 }
 
+// Catch all route
+app.get('*', (req, res,) => {    
+    if (req.path.startsWith(api)) {        
+        res.status(404).json({ error: 'Not found', path: req.path, method: req.method });
+        return;
+    } 
+
+    if(!fs.existsSync('./public')) {
+        res.status(404).json({message: 'Your ui has not been built yet!'});
+        return;
+    } else {
+        res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+        return;
+    }
+});
+
 module.exports = app;
