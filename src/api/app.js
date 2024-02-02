@@ -50,7 +50,9 @@ if (!accountName || !accountKey || !indexName || !oaiResourceName || !oaiKey || 
 try {
     var seeder = new DataSeeder(accountName, accountKey, indexName, oaiResourceName, oaiKey, embeddingsModel);
     seeder.createProductSearchIndex().then(() => {
-        //seeder.seedData(path.join(__dirname, 'data', 'products'));
+        if(process.env.SEED_PRODUCTS == true || process.env.SEED_PRODUCTS == 'true') {
+            seeder.seedData(path.join(__dirname, 'data', 'products'));
+        }
     });
 } catch (error) {
     console.error(error.message);
