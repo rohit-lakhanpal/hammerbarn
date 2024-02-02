@@ -21,6 +21,12 @@ jobs:
         with:
           node-version: '20.x'
 
+      - name: npm install and build the UI project
+        working-directory: ./src/ui
+        run: |
+            npm install
+            npm run build --if-present
+
       - name: npm install, clean, and build the API project
         working-directory: ./src/api
         run: |

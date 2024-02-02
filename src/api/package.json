@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./startup/www"
+    "start": "node ./startup/www",
+    "clean": "rimraf ./public",
+    "build": "rimraf ./public && cd ../ui && npm install && npm run build && shx cp -r build ../api/public",
+    "copyui": "cd ../ui && shx cp -r build ../api/public"
   },
   "dependencies": {
     "@azure/openai": "^1.0.0-beta.11",

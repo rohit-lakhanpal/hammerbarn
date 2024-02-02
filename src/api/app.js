@@ -31,7 +31,7 @@ app.use(function (req, res, next) {
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', require('./routes/index'));
+app.use('/status', require('./routes/status'));
 app.use('/get-listings', require('./routes/listings'));
 app.use('/.well-known', require('./routes/well-known'));
 
