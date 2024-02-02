@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { Box, CssBaseline, ThemeProvider } from "@mui/material";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { routes as appRoutes } from "./utilities/routes";
+import theme from './utilities/theme';
 
-function App() {
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
+function App() {  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <Box height="100vh" display="flex" flexDirection="column">
+        <Router>
+          <Navbar />
+          <Routes>
+            {appRoutes.map((route) => (
+              <Route
+                key={route.key}
+                path={route.path}
+                element={React.createElement(route.component)}
+              />
+            ))}
+          </Routes>
+          <Footer />
+        </Router>
+      </Box>
+    </ThemeProvider>
   );
 }
 

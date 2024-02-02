@@ -32,6 +32,16 @@ class ProductSearch {
         return embeddings.data[0].embedding;
     }
 
+    async getProduct(uid) {
+        const result = await this.client.getDocument(uid);
+        return {
+            uid: result.uid,
+            name: result.name,
+            description: result.description,
+            attributes: result.attributes,
+        };
+    };
+
     async searchProducts(searchTerm) {
         const searchResults = await this.client.search("*", {
             vectorSearchOptions: {

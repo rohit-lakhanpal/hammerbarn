@@ -32,8 +32,8 @@ app.use(function (req, res, next) {
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/status', require('./routes/status'));
-app.use('/get-listings', require('./routes/listings'));
 app.use('/.well-known', require('./routes/well-known'));
+app.use('/api/listings', require('./routes/listings'));
 
 const accountName = process.env.AZURE_SEARCH_SERVICE_NAME;
 const accountKey = process.env.AZURE_SEARCH_ADMIN_KEY;

@@ -13,7 +13,7 @@ consumes: []
 produces:
   - application/json
 paths:
-  /get-listings:
+  /api/listings/search:
     get:
       summary: Get a list of products matching the specified criteria
       description: >-
@@ -77,7 +77,57 @@ paths:
               product name, description, or an array of key-value attributes as
               query parameters
       x-ms-visibility: important
-definitions: {}
+  /api/listings/product/{id}:
+    get:
+      summary: Get an individual product by ID
+      description: >-
+        Returns the details of a specific product by its unique identifier
+      operationId: GetProductById
+      parameters:
+        - name: id
+          in: path
+          required: true
+          type: string
+          description: The unique identifier of the product
+      responses:
+        200:
+          description: Product details retrieved successfully
+          schema:
+            type: object
+            properties:
+              uid:
+                type: string
+                description: Unique identifier of the product
+              name:
+                type: string
+                description: Name of the product
+              description:
+                type: string
+                description: A detailed description of the product
+              attributes:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    key:
+                      type: string
+                      description: The attribute type
+                    value:
+                      type: string
+                      description: The attribute value
+        default:
+          description: Error retrieving product details
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+definitions:
+  ErrorResponse:
+    type: object
+    properties:
+      code:
+        type: integer
+        format: int32
+      message:
+        type: string
 parameters: {}
 responses: {}
 securityDefinitions: {}
