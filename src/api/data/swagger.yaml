@@ -2,7 +2,9 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Hammerbarn API
-  description: Provides a comprehensive listing of products available for sale, including detailed product information and attributes
+  description: >-
+    Provides a comprehensive listing of products available for sale, including
+    detailed product information and attributes
 host: localhost:3000
 basePath: /
 schemes:
@@ -10,34 +12,21 @@ schemes:
 consumes: []
 produces:
   - application/json
-definitions: {}
-parameters: {}
-responses: {}
-securityDefinitions: {}
-security: []
-tags: []
-x-ms-openai-manifest:
-  humanName: Hammerbarn
-  modelDescription: >-
-    Plugin for accessing a wide range of products for sale. Use it whenever a user asks about
-    product listings available in the retail market. This plugin can be used to
-    search for products by name, description, or by specific attributes.
-  contactEmail: 'contact@retail.hammerbarn.com'
-  legalUrl: 'https://hammerbarn.com/legal/'
 paths:
   /get-listings:
     get:
       summary: Get a list of products matching the specified criteria
       description: >-
-        Returns a list of products, optionally filtered by providing a description of your needs.
+        Returns a list of products, optionally filtered by providing a
+        description of your needs
       operationId: GetProductListings
       parameters:
-        - name: description
+        - name: query
           in: query
           type: string
           required: true
-          description: A brief description of the product you are after
-          x-ms-summary: Product Description
+          description: Your product search query
+          x-ms-summary: Product Query
           x-ms-visibility: important
       responses:
         default:
@@ -50,14 +39,17 @@ paths:
                 uid:
                   type: string
                   description: Unique identifier of the product
+                  title: Id
                   x-ms-visibility: important
                 name:
                   type: string
                   description: Name of the product
+                  title: Name
                   x-ms-visibility: important
                 description:
                   type: string
                   description: A detailed description of the product
+                  title: Description
                   x-ms-visibility: important
                 attributes:
                   type: array
@@ -66,11 +58,14 @@ paths:
                     properties:
                       key:
                         type: string
-                        description: Attribute name or key
+                        description: The attribute type
+                        title: Key
+                        x-ms-visibility: important
                       value:
                         type: string
-                        description: Attribute value
-                  description: An array of key-value pairs representing product attributes
+                        description: The attribute value
+                        title: Value
+                        x-ms-visibility: important
       x-ms-openai-data:
         openai-enabled: true
         operations:
@@ -78,6 +73,22 @@ paths:
             x-ms-require-user-confirmation: false
             summary: Get a list of products matching the specified criteria
             description: >-
-              Returns a list of products, optionally filtered by providing the product name,
-              description, or an array of key-value attributes as query parameters.
+              Returns a list of products, optionally filtered by providing the
+              product name, description, or an array of key-value attributes as
+              query parameters
       x-ms-visibility: important
+definitions: {}
+parameters: {}
+responses: {}
+securityDefinitions: {}
+security: []
+tags: []
+x-ms-openai-manifest:
+  humanName: Hammerbarn
+  modelDescription: >-
+    Plugin for accessing a wide range of products for sale. Use it whenever a
+    user asks about product listings available in the retail market. This plugin
+    can be used to search for products by name, description, or by specific
+    attributes.
+  contactEmail: contact@retail.hammerbarn.com
+  legalUrl: https://hammerbarn.com/legal/

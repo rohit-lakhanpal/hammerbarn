@@ -5,16 +5,16 @@ const ProductSearch = require('../helper/searchProducts');
 
 /* GET listings. */
 router.get('/', async function (req, res, next) {
-  const description = req.query.description ? req.query.description.trim() : null;
+  const query = req.query.query ? req.query.query.trim() : null;
 
   try {
     const productSearch = new ProductSearch();
 
-    if(!description) {
-      throw new Error('Description is required');
+    if(!query) {
+      throw new Error('Query parameter is required');
     }
 
-    const listings = await productSearch.searchProducts(description);
+    const listings = await productSearch.searchProducts(query);
 
     res.setHeader("Content-Type", "application/json");
     res.send(listings);
