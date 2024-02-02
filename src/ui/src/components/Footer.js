@@ -3,6 +3,7 @@ import { Box, Container, Grid, Link, Typography, colors } from "@mui/material";
 import CodeIcon from '@mui/icons-material/Code';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import GitHubIcon from '@mui/icons-material/GitHub';
+import MicrosoftIcon from '@mui/icons-material/Microsoft';
 import { infoService } from "../services/infoService";
 
 export const Footer = () => {
@@ -40,7 +41,9 @@ export const Footer = () => {
                 &nbsp;at&nbsp;
                 <Link href={appInfo.repositoryOptional || ""} target="_blank" rel="noreferrer" color="inherit">
                     <GitHubIcon fontSize="small" />
-                </Link>
+                </Link>               
+                &nbsp;powered by&nbsp;
+                <MicrosoftIcon fontSize="small" />
             </Typography>
           </Grid>          
         </Grid>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Box, Container, Typography, Card, CardContent, Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Chip, Divider } from "@mui/material";
+import { Box, Container, Typography, Card, CardContent, Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Chip, Divider, Button } from "@mui/material";
 import { useParams } from "react-router-dom";
 import { getProductAsync } from "../services/searchService";
 
@@ -40,14 +40,17 @@ const Product = () => {
                     <Grid item xs={12}>
                         <Typography variant="h2" gutterBottom>
                             {product.name}
-                        </Typography>
-                        <Chip label={`UID: ${product.uid}`} color="primary" sx={{ margin: 2 }} />
+                        </Typography>                        
+                        <Button variant="contained" color="primary" onClick={() => alert('Yay, your product is on its way!')}>
+                            Buy product #{product.uid}                            
+                        </Button>
                     </Grid>
                     <Grid item xs={12}>
                         <Card>
                             <CardContent>
+                                <Typography variant="subtitle1" color="secondary" paragraph>About this product:</Typography>
                                 <Typography variant="body1" paragraph>{product.description}</Typography>
-                                <Typography variant="subtitle1" color="primary" paragraph>Attributes:</Typography>
+                                <Typography variant="subtitle1" color="secondary" paragraph>Attributes:</Typography>
                                 <Divider />
                                 <TableContainer>
                                     <Table>

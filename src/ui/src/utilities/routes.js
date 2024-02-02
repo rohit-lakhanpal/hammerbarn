@@ -22,7 +22,7 @@ export const routes = [
         key: 'product-route',
         title: 'Product',
         path: '/product/:uid',
-        enabled: true,
-        component: Product
+        enabled: false,
+        component: Product,        
     }
 ];

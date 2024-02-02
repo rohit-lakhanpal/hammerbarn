@@ -2,12 +2,15 @@ const express = require('express');
 const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
-const cors=require('cors');
+const cors = require('cors');
+const fs = require('fs');
 
 require('dotenv').config();
 
 const Utils = require('./helper/utils');
 const DataSeeder = require('./helper/seedProducts');
+
+const apiRoute = `api`;
 
 var app = express();
 
@@ -18,7 +21,7 @@ app.use(cookieParser());
 
 // Setup CORS
 var corsOptions = Utils.getCorsOptions();
-if(corsOptions.origin.length > 0) {
+if (corsOptions.origin.length > 0) {
     console.log(`CORS options: ${JSON.stringify(corsOptions)}`);
     app.use(cors(corsOptions));
 }
@@ -33,7 +36,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/status', require('./routes/status'));
 app.use('/.well-known', require('./routes/well-known'));
-app.use('/api/listings', require('./routes/listings'));
+app.use(`/${apiRoute}/listings`, require('./routes/listings'));
 
 const accountName = process.env.AZURE_SEARCH_SERVICE_NAME;
 const accountKey = process.env.AZURE_SEARCH_ADMIN_KEY;
@@ -50,7 +53,7 @@ if (!accountName || !accountKey || !indexName || !oaiResourceName || !oaiKey || 
 try {
     var seeder = new DataSeeder(accountName, accountKey, indexName, oaiResourceName, oaiKey, embeddingsModel);
     seeder.createProductSearchIndex().then(() => {
-        if(process.env.SEED_PRODUCTS == true || process.env.SEED_PRODUCTS == 'true') {
+        if (process.env.SEED_PRODUCTS == true || process.env.SEED_PRODUCTS == 'true') {
             seeder.seedData(path.join(__dirname, 'data', 'products'));
         }
     });
@@ -59,14 +62,14 @@ try {
 }
 
 // Catch all route
-app.get('*', (req, res,) => {    
-    if (req.path.startsWith(api)) {        
+app.get('*', (req, res,) => {
+    if (req.path.startsWith(apiRoute)) {
         res.status(404).json({ error: 'Not found', path: req.path, method: req.method });
         return;
-    } 
+    }
 
-    if(!fs.existsSync('./public')) {
-        res.status(404).json({message: 'Your ui has not been built yet!'});
+    if (!fs.existsSync('./public')) {
+        res.status(404).json({ message: 'Your ui has not been built yet!' });
         return;
     } else {
         res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
