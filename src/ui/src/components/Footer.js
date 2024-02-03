@@ -4,7 +4,7 @@ import CodeIcon from '@mui/icons-material/Code';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import MicrosoftIcon from '@mui/icons-material/Microsoft';
-import { infoService } from "../services/infoService";
+import { infoService } from '../services/infoService';
 
 export const Footer = () => {
     const [appInfo, setAppInfo] = React.useState({});
@@ -13,7 +13,7 @@ export const Footer = () => {
         (async () => {                          
             try {
                 var about = await infoService.getAppInfoAsync();
-                setAppInfo(about);
+                setAppInfo(about.app);
             } catch(error) {
                 console.error(error);
             }
@@ -43,7 +43,8 @@ export const Footer = () => {
                     <GitHubIcon fontSize="small" />
                 </Link>               
                 &nbsp;powered by&nbsp;
-                <MicrosoftIcon fontSize="small" />
+                <MicrosoftIcon sx={{ color: colors.blue[400] }} fontSize="small" />
+                &nbsp;Azure
             </Typography>
           </Grid>          
         </Grid>
