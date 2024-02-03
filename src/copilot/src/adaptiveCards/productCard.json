@@ -1,0 +1,68 @@
+{
+    "type": "AdaptiveCard",
+    "version": "1.6",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "${name}",
+            "weight": "Bolder",
+            "size": "Medium",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "text": "${uid}",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "Small"
+        },
+        {
+            "type": "TextBlock",
+            "text": "${description}",
+            "wrap": true,
+            "isSubtle": true,
+            "separator": true,
+            "maxLines": 6
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "url": "https://via.placeholder.com/150"
+                        }
+                    ],
+                    "width": "auto"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "FactSet",
+                            "facts": [
+                                {
+                                    "$data": "${attributes}",
+                                    "title": "${key}:",
+                                    "value": "${value}"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Buy it now!",
+            "url": "${buyMe}"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
+}

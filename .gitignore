@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 src/api/.env
 .DS_Store
+src/copilot/env/*
