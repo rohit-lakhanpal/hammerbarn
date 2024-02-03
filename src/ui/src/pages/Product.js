@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Box, Container, Typography, Card, CardContent, Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Chip, Divider, Button } from "@mui/material";
+import { Box, Container, Typography, Card, CardContent, Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Divider, Button } from "@mui/material";
 import { useParams } from "react-router-dom";
 import { getProductAsync } from "../services/searchService";
 
