@@ -12,14 +12,7 @@ export const routes = [
         enabled: true,
         component: Home,
         exact: true         
-    },
-    {
-        key: 'about-route',
-        title: 'About',
-        path: '/about',
-        enabled: true,
-        component: About
-    },
+    },    
     {
         key: 'product-route',
         title: 'Product',
@@ -34,5 +27,12 @@ export const routes = [
         enabled: true,
         component: Apis,
         exact: true
+    },
+    {
+        key: 'about-route',
+        title: 'About',
+        path: '/about',
+        enabled: true,
+        component: About
     }
 ];
