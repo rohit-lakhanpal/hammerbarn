@@ -11,6 +11,7 @@ const Utils = require('./helper/utils');
 const DataSeeder = require('./helper/seedProducts');
 
 const apiRoute = `api`;
+const wellKnownRoute = `.well-known`;
 
 var app = express();
 
@@ -35,7 +36,7 @@ app.use(function (req, res, next) {
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/status', require('./routes/status'));
-app.use('/.well-known', require('./routes/well-known'));
+app.use(`/${wellKnownRoute}`, require('./routes/well-known'));
 app.use(`/${apiRoute}/listings`, require('./routes/listings'));
 
 const accountName = process.env.AZURE_SEARCH_SERVICE_NAME;
@@ -63,7 +64,7 @@ try {
 
 // Catch all route
 app.get('*', (req, res,) => {
-    if (req.path.startsWith(apiRoute)) {
+    if (req.path.startsWith(apiRoute) || req.path.startsWith('/.well-known')) {
         res.status(404).json({ error: 'Not found', path: req.path, method: req.method });
         return;
     }

@@ -42,7 +42,7 @@ export const Footer = () => {
                 <Link href={appInfo.repositoryOptional || ""} target="_blank" rel="noreferrer" color="inherit">
                     <GitHubIcon fontSize="small" />
                 </Link>               
-                &nbsp;powered by&nbsp;
+                &nbsp; powered by&nbsp;
                 <MicrosoftIcon sx={{ color: colors.blue[400] }} fontSize="small" />
                 &nbsp;Azure
             </Typography>
