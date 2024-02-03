@@ -34,48 +34,50 @@ const Product = () => {
     }
 
     return (
-        <Container maxWidth="md">
-            <Box sx={{ my: 4 }}>
-                <Grid container spacing={2}>
-                    <Grid item xs={12}>
-                        <Typography variant="h2" gutterBottom>
-                            {product.name}
-                        </Typography>                        
-                        <Button variant="contained" color="primary" onClick={() => alert('Yay, your product is on its way!')}>
-                            Buy product #{product.uid}                            
-                        </Button>
-                    </Grid>
-                    <Grid item xs={12}>
-                        <Card>
-                            <CardContent>
-                                <Typography variant="subtitle1" color="secondary" paragraph>About this product:</Typography>
-                                <Typography variant="body1" paragraph>{product.description}</Typography>
-                                <Typography variant="subtitle1" color="secondary" paragraph>Attributes:</Typography>
-                                <Divider />
-                                <TableContainer>
-                                    <Table>
-                                        <TableHead>
-                                            <TableRow>
-                                                <TableCell>Key</TableCell>
-                                                <TableCell>Value</TableCell>
-                                            </TableRow>
-                                        </TableHead>
-                                        <TableBody>
-                                            {product.attributes.map((attr, index) => (
-                                                <TableRow key={index}>
-                                                    <TableCell>{attr.key}</TableCell>
-                                                    <TableCell>{attr.value}</TableCell>
+        <Box sx={{ flexGrow: 1, backgroundColor: 'whitesmoke' }}>
+            <Container maxWidth="lg">
+                <Box sx={{ my: 4 }}>
+                    <Grid container spacing={2}>
+                        <Grid item xs={12}>
+                            <Typography variant="h2" gutterBottom>
+                                {product.name}
+                            </Typography>                        
+                            <Button variant="contained" color="primary" onClick={() => alert('Yay, your product is on its way!')}>
+                                Buy product #{product.uid}                            
+                            </Button>
+                        </Grid>
+                        <Grid item xs={12}>
+                            <Card>
+                                <CardContent>
+                                    <Typography variant="subtitle1" color="secondary" paragraph>About this product:</Typography>
+                                    <Typography variant="body1" paragraph>{product.description}</Typography>
+                                    <Typography variant="subtitle1" color="secondary" paragraph>Attributes:</Typography>
+                                    <Divider />
+                                    <TableContainer>
+                                        <Table>
+                                            <TableHead>
+                                                <TableRow>
+                                                    <TableCell>Key</TableCell>
+                                                    <TableCell>Value</TableCell>
                                                 </TableRow>
-                                            ))}
-                                        </TableBody>
-                                    </Table>
-                                </TableContainer>
-                            </CardContent>
-                        </Card>
+                                            </TableHead>
+                                            <TableBody>
+                                                {product.attributes.map((attr, index) => (
+                                                    <TableRow key={index}>
+                                                        <TableCell>{attr.key}</TableCell>
+                                                        <TableCell>{attr.value}</TableCell>
+                                                    </TableRow>
+                                                ))}
+                                            </TableBody>
+                                        </Table>
+                                    </TableContainer>
+                                </CardContent>
+                            </Card>
+                        </Grid>
                     </Grid>
-                </Grid>
-            </Box>
-        </Container>
+                </Box>
+            </Container>
+        </Box>
     );
 };
 

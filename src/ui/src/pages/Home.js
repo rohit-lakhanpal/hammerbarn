@@ -15,8 +15,8 @@ const Home = () => {
     };
 
     return (
-        <Box sx={{ flexGrow: 1 }}>
-            <Container maxWidth="md">
+        <Box sx={{ flexGrow: 1, backgroundColor: 'whitesmoke' }}>
+            <Container maxWidth="lg">
                 <Box sx={{ my: 4 }}>
                     <Typography variant="h2" gutterBottom>
                         Search Products
@@ -58,7 +58,7 @@ const Home = () => {
                                                 }}>
                                                     {product.name}
                                                 </Typography>
-                                                <Chip variant="outlined" label={`UID: ${product.uid}`} color="primary" />
+                                                <Chip variant="outlined" label={`UID: ${product.uid} | Score: ${product.score}`} color="primary" />
                                                 <Typography sx={{ marginTop: 1 }} variant="body1" noWrap>{product.description}</Typography>
                                             </CardContent>
                                         </Card>
